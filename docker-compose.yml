@@ -2,7 +2,7 @@ services:
   python:
     container_name: python-innopolis
     restart: unless-stopped
-    image: python:3.14-alpine
+    image: python:3.14-slim
     working_dir: /app
     ports:
       - "8000:8000"
