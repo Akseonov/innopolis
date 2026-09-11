@@ -2,11 +2,16 @@ services:
   python:
     container_name: python-innopolis
     restart: unless-stopped
-    image: python:3.14-slim
+    build: .
+    image: innopolis-python:local
     working_dir: /app
     ports:
       - "8000:8000"
     volumes:
+      # Код проекта живьём: правки на хосте сразу видны в контейнере.
       - .:/app
+      # Анонимные тома прячут хостовые артефакты, собранные под macOS.
+      - /app/.venv
+      - /app/build
     command: python -m http.server 8000
 #    command: python src/init.py
