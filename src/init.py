@@ -1,53 +1,46 @@
-import pandas as pd
-import numpy as np
-import seaborn as sns
-import gdown as gd
+import pandas as pd #dataframe
+import numpy as np #матрицы
+import seaborn as sns #визуализация
+import gdown as gd #google download
 
-print(pd.__version__)
-
-num_list = [1,3,5,np.nan,6,8]
-numbers_series = pd.Series(num_list, name = 'numbers')
-print(numbers_series)
-frame = numbers_series.to_frame(name = 'numbers')
-print(frame)
-
-letter_list = ['a', 'b', 'c', 'd', 'e', np.nan]
-letter_series = pd.Series(letter_list, name='letters')
-print(letter_series)
-
-print(pd.concat([numbers_series, letter_series], axis=1))
-
-df_other = pd.DataFrame({
-    'numbers': numbers_series,
-    'letters': letter_series
+np.random.seed(42)
+df = pd.DataFrame({
+    'City': ['Moscow', 'SPb', 'Kazan', 'Moscow', 'SPb', 'Kazan'] * 2,
+    'Product': ['A', 'B', 'A', 'C', 'B', 'C'] * 2,
+    'Sales': np.random.randint(100, 500, 12),
+    'Quantity': np.random.randint(1, 10, 12)
 })
-print(df_other)
-
-dates = pd.date_range('20260218', periods=450,freq='MS')
-
-numbers_for_df = np.random.randn(450, 4)
-
-df = pd.DataFrame(numbers_for_df, index=dates, columns=['A','B','C','D'])
 print(df)
 
-file = pd.read_csv("src/panda_data/5f6ce129fddc4ca0952f5e520e5f5bf8.csv", index_col=0)
-print(file)
+# -------- Простое условие --------
+# Обычный способ
+filtered1 = df[df['Sales'] > 300]
+# Через query
+filtered1_q = df.query('Sales > 300')
 
-file_1 = sns.load_dataset('tips')
-print(file_1)
+print("\nПродажи > 300:")
+print(filtered1)
+print(filtered1_q)
 
-file_1.to_csv("src/panda_data/test.csv", index=False)
+# -------- Несколько условий --------
+# Обычный способ (скобки! скобки!)
+filtered2 = df[(df['City'] == 'Moscow') & (df['Sales'] > 200)]
+# Через query (чистота!)
+filtered2_q = df.query('City == "Moscow" and Sales > 200')
 
-url = "https://drive.google.com/uc?id=1SA_V8uaKydrWJVaqUk3EJL1wjQD6CEvb"
-gd.download(url, 'src/panda_data/user_data.csv', quiet=True)
+print("\nМосква и Sales > 200:")
+print(filtered2_q)
 
-# file_1.columns = [1,2,3,4,5,6,7] # переименовать колонки
-print(file_1)
-print(file_1.head(3))
-# print(file_1[2])
+# -------- Использование IN --------
+cities = ['Moscow', 'Kazan']
+filtered3 = df.query('City in @cities')
+print("\nТолько Москва и Казань:")
+print(filtered3)
 
-print(file_1.T)
-file_1.sort_index(axis=0, ascending=False) # по умолчанию axis=0, т.е. сортировка по строкам
-file_1.sort_values(by=['total_bill'], ascending=False) # по умолчанию сортировка по индексу, выбрали столбцы
-print(file_1.sort_values(by=['total_bill'], ascending=False))
+# -------- Работа со строками --------
+df['Product_name'] = ['Apple', 'Banana', 'Apple', 'Cherry', 'Banana', 'Cherry'] * 2
+filtered5 = df.query('Product_name.str.contains("a", case=False)')
+print("\nТовары с буквой 'a' в названии:")
+display(filtered5)
+
 # python ./src/init.py
