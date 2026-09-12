@@ -1,13 +1,9 @@
-# JetBrains IDE
 .idea/
 
-# macOS
 .DS_Store
 
-# Виртуальное окружение
 .venv/
 
-# Артефакты сборки и метаданные пакета
 build/
 dist/
 *.egg-info/

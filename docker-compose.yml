@@ -8,9 +8,7 @@ services:
     ports:
       - "8000:8000"
     volumes:
-      # Код проекта живьём: правки на хосте сразу видны в контейнере.
       - .:/app
-      # Анонимные тома прячут хостовые артефакты, собранные под macOS.
       - /app/.venv
       - /app/build
     command: python -m http.server 8000

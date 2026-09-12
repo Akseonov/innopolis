@@ -1,19 +1,15 @@
-# Локальное виртуальное окружение (собрано под macOS, в контейнере бесполезно)
 .venv/
 
-# Артефакты сборки и метаданные пакета
 build/
 dist/
 *.egg-info/
 __pycache__/
 *.py[cod]
 
-# VCS и IDE
 .git/
 .gitignore
 .idea/
 
-# Прочее
 .DS_Store
 docker-compose.yml
 Dockerfile

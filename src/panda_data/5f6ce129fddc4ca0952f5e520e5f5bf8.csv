@@ -1,0 +1,1001 @@
+﻿user_id,age,salary,country_original,education,device,feedback_text,purchase_amount,country_cleaned,device_grouped,education_binary,education_simplified
+1001,58,0,Германия,Высшее,Desktop,Не работает,0,Германия,Desktop,1,Higher_or_Incomplete
+1002,45,0,США,Среднее,Mobile,Disappointed,5055,США,MobileDevice,0,Secondary_or_Special
+1003,55,76463,Росия,Среднее,Mobile,Excellent service,2456,Россия,MobileDevice,0,Secondary_or_Special
+1004,40,100082,рф,Среднее,Smart TV,"Great product, recommended",6766,Россия,OtherDevice,0,Secondary_or_Special
+1005,54,65203,Российская Фередация,Неоконченное высшее,Smartwatch,Alles perfekt!,8735,Россия,OtherDevice,0,Higher_or_Incomplete
+1006,28,49260,Великобритания,Среднее,Desktop,Disappointed,2497,Великобритания,Desktop,0,Secondary_or_Special
+1007,47,104735,Britain,Высшее,Mobile,Лучший магазин в котором покупал,0,Великобритания,MobileDevice,1,Higher_or_Incomplete
+1008,38,71290,U.S.A.,Неоконченное высшее,Mobile,Так себе,1896,США,MobileDevice,0,Higher_or_Incomplete
+1009,34,54150,КНР,Высшее,Desktop,"Неплохо, но есть нюансы",3766,Китай,Desktop,1,Higher_or_Incomplete
+1010,49,66915,Росия,Среднее,Desktop,Nicht angekommen,7982,Россия,Desktop,0,Secondary_or_Special
+1011,51,72953,Россия,Среднее,Desktop,Никому не советую,0,Россия,Desktop,0,Secondary_or_Special
+1012,45,75730,Великобритания,Среднее специальное,Desktop,Лучший магазин в котором покупал,6540,Великобритания,Desktop,0,Secondary_or_Special
+1013,56,66071,U.S.A.,Среднее специальное,Tablet,Никому не советую,6976,США,MobileDevice,0,Secondary_or_Special
+1014,74,74504,USA,Высшее,Desktop,Все пришло в целости,9799,США,Desktop,1,Higher_or_Incomplete
+1015,67,28241,франция,Высшее,Desktop,Нормальный магазин,2105,Франция,Desktop,1,Higher_or_Incomplete
+1016,30,91723,Великобритания,Высшее,Desktop,"Sehr gut, empfehlenswert",0,Великобритания,Desktop,1,Higher_or_Incomplete
+1017,19,19277,Китай,Среднее,Mobile,Не могу войти в аккаунт,1162,Китай,MobileDevice,0,Secondary_or_Special
+1018,22,58695,Англия,Высшее,Mobile,Верните деньги,3892,Великобритания,MobileDevice,1,Higher_or_Incomplete
+1019,30,51181,Франция,Высшее,Mobile,Прекрасное качество,627,Франция,MobileDevice,1,Higher_or_Incomplete
+1020,43,99473,Российская Фередация,Высшее,Desktop,Good,2507,Россия,Desktop,1,Higher_or_Incomplete
+1021,46,127132,Britain,Неоконченное высшее,Smart TV,Alles perfekt!,15952,Великобритания,OtherDevice,0,Higher_or_Incomplete
+1022,75,23842,россия,Высшее,Desktop,Так себе,3577,Россия,Desktop,1,Higher_or_Incomplete
+1023,53,103788,Германия,Среднее специальное,Desktop,Все пришло в целости,2876,Германия,Desktop,0,Secondary_or_Special
+1024,50,109615,China,Неоконченное высшее,Mobile,Обманщики,16622,Китай,MobileDevice,0,Higher_or_Incomplete
+1025,54,72271,Россия,Высшее,Desktop,Could be better,3048,Россия,Desktop,1,Higher_or_Incomplete
+1026,34,70938,Великобритания,Среднее,Tablet,Супер быстро,3007,Великобритания,MobileDevice,0,Secondary_or_Special
+1027,22,60234,Германия,Среднее специальное,Tablet,Could be better,7874,Германия,MobileDevice,0,Secondary_or_Special
+1028,57,0,китай,Среднее специальное,Mobile,"Good service, but shipping took too long",2431,Китай,MobileDevice,0,Secondary_or_Special
+1029,35,63465,Великобритания,Высшее,Desktop,Верните деньги,1678,Великобритания,Desktop,1,Higher_or_Incomplete
+1030,23,52759,РФ,Высшее,Mobile,Все пришло в целости,5240,Россия,MobileDevice,1,Higher_or_Incomplete
+1031,18,0,United Kingdom,Среднее,Desktop,Почему не применилась скидка?,1119,Великобритания,Desktop,0,Secondary_or_Special
+1032,75,72174,РОССИЯ,Высшее,Mobile,"Доставка быстрая, упаковка целая",4675,Россия,MobileDevice,1,Higher_or_Incomplete
+1033,33,55649,US,Высшее,Desktop,"Доставка быстрая, упаковка целая",2694,США,Desktop,1,Higher_or_Incomplete
+1034,35,55433,россия,Неоконченное высшее,Tablet,Лучший магазин в котором покупал,8546,Россия,MobileDevice,0,Higher_or_Incomplete
+1035,68,77103,Российская Фередация,Высшее,Mobile,"Неплохо, но есть нюансы",11465,Россия,MobileDevice,1,Higher_or_Incomplete
+1036,39,46808,Германия,Среднее,Smartwatch,Очень доволен покупкой,4143,Германия,OtherDevice,0,Secondary_or_Special
+1037,45,122033,Китай,Высшее,Desktop,Сломалось через день,10437,Китай,Desktop,1,Higher_or_Incomplete
+1038,41,0,Великобритания,Среднее,Desktop,Bad quality,4229,Великобритания,Desktop,0,Secondary_or_Special
+1039,43,93752,US,Среднее,Mobile,Очень доволен покупкой,474,США,MobileDevice,0,Secondary_or_Special
+1040,37,63803,КНР,Среднее,Mobile,Товар не соответствует описанию,3678,Китай,MobileDevice,0,Secondary_or_Special
+1041,60,25557,Britain,Высшее,Desktop,Bad quality,390,Великобритания,Desktop,1,Higher_or_Incomplete
+1042,20,41046,China,Среднее,Tablet,Все пришло в целости,1317,Китай,MobileDevice,0,Secondary_or_Special
+1043,27,25363,россия,Высшее,Desktop,Верните деньги,0,Россия,Desktop,1,Higher_or_Incomplete
+1044,33,52953,франция,Среднее,Desktop,Средне,4568,Франция,Desktop,0,Secondary_or_Special
+1045,71,79431,America,Неоконченное высшее,Mobile,Bad quality,13945,США,MobileDevice,0,Higher_or_Incomplete
+1046,33,62996,Великобритания,Высшее,Mobile,"Всё отлично, спасибо",1539,Великобритания,MobileDevice,1,Higher_or_Incomplete
+1047,63,0,Франция,Среднее,Mobile,Так себе,852,Франция,MobileDevice,0,Secondary_or_Special
+1048,72,77714,Франция,Высшее,Mobile,Not bad,9889,Франция,MobileDevice,1,Higher_or_Incomplete
+1049,75,34453,ФРГ,Среднее,Mobile,Сломалось через день,1595,Германия,MobileDevice,0,Secondary_or_Special
+1050,26,0,франция,Среднее,Mobile,Good,1028,Франция,MobileDevice,0,Secondary_or_Special
+1051,42,97906,Deutschland,Неоконченное высшее,Mobile,More or less ok,0,Германия,MobileDevice,0,Higher_or_Incomplete
+1052,19,24544,China,Среднее специальное,Mobile,Excellent service,119,Китай,MobileDevice,0,Secondary_or_Special
+1053,33,58065,Китай,Высшее,Mobile,Товар не соответствует описанию,4062,Китай,MobileDevice,1,Higher_or_Incomplete
+1054,28,64707,UK,Неоконченное высшее,Mobile,Очень доволен покупкой,0,Великобритания,MobileDevice,0,Higher_or_Incomplete
+1055,37,82735,Франция,Среднее специальное,Mobile,Обманщики,2024,Франция,MobileDevice,0,Secondary_or_Special
+1056,72,64843,РФ,Высшее,Mobile,"Great product, recommended",4575,Россия,MobileDevice,1,Higher_or_Incomplete
+1057,70,52125,ФРГ,Среднее,Mobile,Disappointed,3470,Германия,MobileDevice,0,Secondary_or_Special
+1058,67,51686,Britain,Высшее,Tablet,Обычный магазин,6796,Великобритания,MobileDevice,1,Higher_or_Incomplete
+1059,60,44837,Франция,Высшее,Mobile,Could be better,2767,Франция,MobileDevice,1,Higher_or_Incomplete
+1060,53,41330,USA,Высшее,Mobile,Все пришло в целости,2678,США,MobileDevice,1,Higher_or_Incomplete
+1061,68,21130,US,Среднее,Mobile,Обычный магазин,1163,США,MobileDevice,0,Secondary_or_Special
+1062,39,68056,Deutschland,Высшее,Mobile,"Good service, but shipping took too long",5478,Германия,MobileDevice,1,Higher_or_Incomplete
+1063,30,59180,германия,Среднее специальное,Desktop,Лучший магазин в котором покупал,2599,Германия,Desktop,0,Secondary_or_Special
+1064,37,45927,Соединенные Штаты,Высшее,Mobile,Почему не применилась скидка?,1366,США,MobileDevice,1,Higher_or_Incomplete
+1065,73,20803,Франция,Высшее,Mobile,More or less ok,2609,Франция,MobileDevice,1,Higher_or_Incomplete
+1066,49,64710,UK,Высшее,Desktop,"Sehr gut, empfehlenswert",0,Великобритания,Desktop,1,Higher_or_Incomplete
+1067,66,47274,Китай,Неоконченное высшее,Mobile,More or less ok,4397,Китай,MobileDevice,0,Higher_or_Incomplete
+1068,57,47894,UK,Среднее специальное,Mobile,"Быстро, но упаковка повреждена",0,Великобритания,MobileDevice,0,Secondary_or_Special
+1069,33,56391,USA,Высшее,Desktop,"Нормально, но интерфейс мог бы быть лучше",6473,США,Desktop,1,Higher_or_Incomplete
+1070,73,0,Соединенные Штаты,Неоконченное высшее,Desktop,Alles perfekt!,0,США,Desktop,0,Higher_or_Incomplete
+1071,32,87443,Германия,Высшее,Mobile,Не пришел заказ,9301,Германия,MobileDevice,1,Higher_or_Incomplete
+1072,25,55716,Англия,Среднее специальное,Desktop,"Good service, but shipping took too long",7452,Великобритания,Desktop,0,Secondary_or_Special
+1073,38,84564,Российская Фередация,Среднее специальное,Desktop,Не могу войти в аккаунт,3346,Россия,Desktop,0,Secondary_or_Special
+1074,54,45273,US,Среднее,Mobile,Очень доволен покупкой,1305,США,MobileDevice,0,Secondary_or_Special
+1075,48,100607,Germany,Неоконченное высшее,Mobile,Could be better,6736,Германия,MobileDevice,0,Higher_or_Incomplete
+1076,53,44809,Deutschland,Высшее,Smart TV,Обманщики,4865,Германия,OtherDevice,1,Higher_or_Incomplete
+1077,47,0,китай,Среднее,Mobile,"Sehr gut, empfehlenswert",1940,Китай,MobileDevice,0,Secondary_or_Special
+1078,46,118532,Britain,Неоконченное высшее,Desktop,Не могу войти в аккаунт,3215,Великобритания,Desktop,0,Higher_or_Incomplete
+1079,47,70396,US,Среднее специальное,Mobile,Так себе,3710,США,MobileDevice,0,Secondary_or_Special
+1080,47,127255,U.S.A.,Среднее,Tablet,"Доставка быстрая, упаковка целая",21624,США,MobileDevice,0,Secondary_or_Special
+1081,35,45168,германия,Среднее,Desktop,Not bad,7813,Германия,Desktop,0,Secondary_or_Special
+1082,52,89441,Германия,Среднее специальное,Mobile,Лучший магазин в котором покупал,8199,Германия,MobileDevice,0,Secondary_or_Special
+1083,48,104968,United Kingdom,Среднее,Mobile,Никому не советую,6089,Великобритания,MobileDevice,0,Secondary_or_Special
+1084,24,59468,Росия,Высшее,Desktop,Супер быстро,8047,Россия,Desktop,1,Higher_or_Incomplete
+1085,59,50527,Britain,Высшее,Mobile,More or less ok,1477,Великобритания,MobileDevice,1,Higher_or_Incomplete
+1086,58,77667,UK,Высшее,Mobile,Обманщики,0,Великобритания,MobileDevice,1,Higher_or_Incomplete
+1087,28,44625,РОССИЯ,Неоконченное высшее,Mobile,Good,5109,Россия,MobileDevice,0,Higher_or_Incomplete
+1088,68,31800,россия,Среднее,Mobile,"Sehr gut, empfehlenswert",1028,Россия,MobileDevice,0,Secondary_or_Special
+1089,60,20615,Франция,Среднее,Mobile,Средне,3570,Франция,MobileDevice,0,Secondary_or_Special
+1090,34,74939,US,Неоконченное высшее,Mobile,Никому не советую,6678,США,MobileDevice,0,Higher_or_Incomplete
+1091,19,21568,Франция,Высшее,Tablet,"Very good, will buy again",760,Франция,MobileDevice,1,Higher_or_Incomplete
+1092,67,72354,Германия,Среднее,Desktop,Сломалось через день,1664,Германия,Desktop,0,Secondary_or_Special
+1093,75,61121,ФРГ,Высшее,Mobile,"Very good, will buy again",4791,Германия,MobileDevice,1,Higher_or_Incomplete
+1094,30,53661,германия,Среднее,Mobile,More or less ok,4381,Германия,MobileDevice,0,Secondary_or_Special
+1095,65,77042,рф,Среднее специальное,Mobile,Не пришел заказ,11868,Россия,MobileDevice,0,Secondary_or_Special
+1096,41,66836,Российская Федерация,Среднее,Mobile,Disappointed,3312,Россия,MobileDevice,0,Secondary_or_Special
+1097,24,40323,КНР,Высшее,Desktop,Прекрасное качество,2172,Китай,Desktop,1,Higher_or_Incomplete
+1098,59,93516,РФ,Высшее,Mobile,"Very good, will buy again",8375,Россия,MobileDevice,1,Higher_or_Incomplete
+1099,60,68702,PRC,Среднее,Desktop,Nicht angekommen,5108,Китай,Desktop,0,Secondary_or_Special
+1100,20,49283,France,Неоконченное высшее,Mobile,Not bad,614,Франция,MobileDevice,0,Higher_or_Incomplete
+1101,43,91160,рф,Высшее,Mobile,Не могу войти в аккаунт,0,Россия,MobileDevice,1,Higher_or_Incomplete
+1102,39,60962,Китай,Высшее,Desktop,Товар не соответствует описанию,3378,Китай,Desktop,1,Higher_or_Incomplete
+1103,68,79017,Германия,Среднее специальное,Desktop,Прекрасное качество,7097,Германия,Desktop,0,Secondary_or_Special
+1104,68,71670,Germany,Высшее,Mobile,Not bad,0,Германия,MobileDevice,1,Higher_or_Incomplete
+1105,22,56211,германия,Среднее,Mobile,Не могу войти в аккаунт,8666,Германия,MobileDevice,0,Secondary_or_Special
+1106,51,79535,РФ,Среднее специальное,Desktop,Nicht angekommen,2290,Россия,Desktop,0,Secondary_or_Special
+1107,75,25294,USA,Высшее,Desktop,Не пришел заказ,1933,США,Desktop,1,Higher_or_Incomplete
+1108,36,74734,France,Неоконченное высшее,Mobile,Сломалось через день,5710,Франция,MobileDevice,0,Higher_or_Incomplete
+1109,46,84949,Франция,Высшее,Mobile,"Быстро, но упаковка повреждена",14184,Франция,MobileDevice,1,Higher_or_Incomplete
+1110,48,63799,Россия,Высшее,Desktop,"Great product, recommended",0,Россия,Desktop,1,Higher_or_Incomplete
+1111,53,83207,Франция,Неоконченное высшее,Tablet,Не могу войти в аккаунт,6330,Франция,MobileDevice,0,Higher_or_Incomplete
+1112,24,62874,America,Среднее,Desktop,Никому не советую,0,США,Desktop,0,Secondary_or_Special
+1113,35,82624,франция,Среднее специальное,Desktop,Disappointed,7013,Франция,Desktop,0,Secondary_or_Special
+1114,71,65447,Соединенные Штаты,Среднее,Mobile,"Нормально, но интерфейс мог бы быть лучше",4952,США,MobileDevice,0,Secondary_or_Special
+1115,22,34297,Россия,Среднее,Mobile,"Неплохо, но есть нюансы",2360,Россия,MobileDevice,0,Secondary_or_Special
+1116,67,57197,Росия,Высшее,Desktop,"Perfect, arrived on time",2838,Россия,Desktop,1,Higher_or_Incomplete
+1117,46,109287,China,Высшее,Mobile,Schlechte Qualität,1163,Китай,MobileDevice,1,Higher_or_Incomplete
+1118,32,70903,РФ,Высшее,Tablet,Could be better,7794,Россия,MobileDevice,1,Higher_or_Incomplete
+1119,29,33466,United Kingdom,Среднее,Desktop,Alles perfekt!,304,Великобритания,Desktop,0,Secondary_or_Special
+1120,47,65205,PRC,Среднее,Desktop,"Good service, but shipping took too long",4090,Китай,Desktop,0,Secondary_or_Special
+1121,69,60509,Великобритания,Высшее,Desktop,Средне,5911,Великобритания,Desktop,1,Higher_or_Incomplete
+1122,65,42250,USA,Среднее,Mobile,"Very good, will buy again",2714,США,MobileDevice,0,Secondary_or_Special
+1123,70,29679,Соединенные Штаты,Высшее,Desktop,"Всё отлично, спасибо",2514,США,Desktop,1,Higher_or_Incomplete
+1124,66,56944,франция,Среднее специальное,Desktop,Никому не советую,1107,Франция,Desktop,0,Secondary_or_Special
+1125,46,63950,Великобритания,Неоконченное высшее,Desktop,Nicht angekommen,1368,Великобритания,Desktop,0,Higher_or_Incomplete
+1126,41,0,россия,Среднее,Desktop,Супер быстро,1196,Россия,Desktop,0,Secondary_or_Special
+1127,38,84649,USA,Среднее,Desktop,Nicht angekommen,3450,США,Desktop,0,Secondary_or_Special
+1128,63,48688,КНР,Среднее,Mobile,Так себе,920,Китай,MobileDevice,0,Secondary_or_Special
+1129,68,61345,РОССИЯ,Высшее,Desktop,"Дороговато, но качество отличное",3625,Россия,Desktop,1,Higher_or_Incomplete
+1130,39,50341,Соединенные Штаты,Высшее,Desktop,Good,2336,США,Desktop,1,Higher_or_Incomplete
+1131,53,89372,Германия,Среднее,Desktop,Не работает,0,Германия,Desktop,0,Secondary_or_Special
+1132,60,47748,РОССИЯ,Высшее,Smart TV,Нормальный магазин,756,Россия,OtherDevice,1,Higher_or_Incomplete
+1133,36,51628,КНР,Высшее,Mobile,Очень доволен покупкой,2792,Китай,MobileDevice,1,Higher_or_Incomplete
+1134,62,70534,America,Высшее,Mobile,Товар не соответствует описанию,4878,США,MobileDevice,1,Higher_or_Incomplete
+1135,32,79996,France,Высшее,Tablet,"Доставка быстрая, упаковка целая",7826,Франция,MobileDevice,1,Higher_or_Incomplete
+1136,44,76241,Китай,Неоконченное высшее,Mobile,Not bad,9461,Китай,MobileDevice,0,Higher_or_Incomplete
+1137,72,28170,Соединенные Штаты,Высшее,Desktop,"Very good, will buy again",1490,США,Desktop,1,Higher_or_Incomplete
+1138,19,13595,россия,Среднее,Mobile,Нормальный магазин,0,Россия,MobileDevice,0,Secondary_or_Special
+1139,24,46973,USA,Высшее,Desktop,Excellent service,268,США,Desktop,1,Higher_or_Incomplete
+1140,75,0,США,Среднее,Desktop,"Good service, but shipping took too long",627,США,Desktop,0,Secondary_or_Special
+1141,21,40626,PRC,Высшее,Desktop,Не работает,0,Китай,Desktop,1,Higher_or_Incomplete
+1142,50,71711,ФРГ,Высшее,Mobile,Good,2271,Германия,MobileDevice,1,Higher_or_Incomplete
+1143,22,59475,КНР,Высшее,Tablet,Ужасное обслуживание,969,Китай,MobileDevice,1,Higher_or_Incomplete
+1144,40,63855,UK,Неоконченное высшее,Desktop,"Отличный сервис, быстро доставили",2815,Великобритания,Desktop,0,Higher_or_Incomplete
+1145,71,71061,Англия,Среднее,Desktop,Сломалось через день,4086,Великобритания,Desktop,0,Secondary_or_Special
+1146,20,38072,Deutschland,Среднее,Smartwatch,Could be better,0,Германия,OtherDevice,0,Secondary_or_Special
+1147,59,65048,РОССИЯ,Высшее,Desktop,"Дороговато, но качество отличное",7282,Россия,Desktop,1,Higher_or_Incomplete
+1148,29,57519,германия,Высшее,Mobile,Alles perfekt!,5514,Германия,MobileDevice,1,Higher_or_Incomplete
+1149,36,66050,Deutschland,Высшее,Desktop,Все пришло в целости,5588,Германия,Desktop,1,Higher_or_Incomplete
+1150,57,97008,Россия,Среднее,Mobile,Disappointed,3447,Россия,MobileDevice,0,Secondary_or_Special
+1151,61,71204,USA,Высшее,Desktop,Средне,0,США,Desktop,1,Higher_or_Incomplete
+1152,27,54486,ФРГ,Неоконченное высшее,Desktop,Так себе,647,Германия,Desktop,0,Higher_or_Incomplete
+1153,19,24106,US,Среднее,Tablet,"Доставка быстрая, упаковка целая",3359,США,MobileDevice,0,Secondary_or_Special
+1154,36,90480,France,Высшее,Tablet,"Very good, will buy again",14471,Франция,MobileDevice,1,Higher_or_Incomplete
+1155,72,40944,UK,Среднее,Mobile,Все пришло в целости,1871,Великобритания,MobileDevice,0,Secondary_or_Special
+1156,68,43690,Российская Фередация,Неоконченное высшее,Mobile,Хороший ассортимент,4069,Россия,MobileDevice,0,Higher_or_Incomplete
+1157,26,0,франция,Среднее,Desktop,Nicht angekommen,0,Франция,Desktop,0,Secondary_or_Special
+1158,38,0,франция,Среднее,Mobile,Schlechte Qualität,3166,Франция,MobileDevice,0,Secondary_or_Special
+1159,50,47263,Китай,Высшее,Mobile,Хороший ассортимент,1565,Китай,MobileDevice,1,Higher_or_Incomplete
+1160,72,25168,Britain,Высшее,Desktop,Nicht angekommen,1010,Великобритания,Desktop,1,Higher_or_Incomplete
+1161,27,36219,Britain,Высшее,Tablet,Класс! Обязательно закажу еще,0,Великобритания,MobileDevice,1,Higher_or_Incomplete
+1162,59,74688,PRC,Среднее,Mobile,Bad quality,2146,Китай,MobileDevice,0,Secondary_or_Special
+1163,69,72910,ФРГ,Высшее,Mobile,Обычный магазин,2478,Германия,MobileDevice,1,Higher_or_Incomplete
+1164,38,92078,ФРГ,Высшее,Mobile,Хороший ассортимент,2993,Германия,MobileDevice,1,Higher_or_Incomplete
+1165,33,54232,ФРГ,Неоконченное высшее,Mobile,Средне,2022,Германия,MobileDevice,0,Higher_or_Incomplete
+1166,49,122466,ФРГ,Высшее,Tablet,Нормальный магазин,1372,Германия,MobileDevice,1,Higher_or_Incomplete
+1167,36,77433,Англия,Высшее,Mobile,Good,10064,Великобритания,MobileDevice,1,Higher_or_Incomplete
+1168,41,60930,КНР,Высшее,Desktop,Not bad,3257,Китай,Desktop,1,Higher_or_Incomplete
+1169,26,31336,германия,Среднее специальное,Desktop,Не работает,643,Германия,Desktop,0,Secondary_or_Special
+1170,26,46826,PRC,Высшее,Tablet,Средне,6602,Китай,MobileDevice,1,Higher_or_Incomplete
+1171,65,75220,германия,Неоконченное высшее,Desktop,Bad quality,1905,Германия,Desktop,0,Higher_or_Incomplete
+1172,61,27183,китай,Неоконченное высшее,Desktop,Не могу войти в аккаунт,1279,Китай,Desktop,0,Higher_or_Incomplete
+1173,68,70866,America,Высшее,Mobile,Не пришел заказ,2254,США,MobileDevice,1,Higher_or_Incomplete
+1174,70,64612,China,Высшее,Mobile,Alles perfekt!,7084,Китай,MobileDevice,1,Higher_or_Incomplete
+1175,73,75599,Росия,Среднее,Desktop,Not bad,6449,Россия,Desktop,0,Secondary_or_Special
+1176,52,84869,Великобритания,Среднее,Mobile,Not bad,8418,Великобритания,MobileDevice,0,Secondary_or_Special
+1177,67,38940,Англия,Высшее,Mobile,Could be better,0,Великобритания,MobileDevice,1,Higher_or_Incomplete
+1178,61,55598,Франция,Среднее специальное,Desktop,"Perfect, arrived on time",5259,Франция,Desktop,0,Secondary_or_Special
+1179,46,88612,США,Неоконченное высшее,Mobile,Bad quality,0,США,MobileDevice,0,Higher_or_Incomplete
+1180,57,71363,Britain,Высшее,Mobile,"Неплохо, но есть нюансы",3114,Великобритания,MobileDevice,1,Higher_or_Incomplete
+1181,18,18033,US,Среднее,Tablet,"Быстро, но упаковка повреждена",1761,США,MobileDevice,0,Secondary_or_Special
+1182,36,0,Российская Фередация,Среднее,Desktop,Alles perfekt!,867,Россия,Desktop,0,Secondary_or_Special
+1183,71,46017,America,Среднее специальное,Tablet,"Perfect, arrived on time",3375,США,MobileDevice,0,Secondary_or_Special
+1184,36,74776,КНР,Среднее,Tablet,Could be better,1214,Китай,MobileDevice,0,Secondary_or_Special
+1185,64,50075,United Kingdom,Высшее,Mobile,Disappointed,4042,Великобритания,MobileDevice,1,Higher_or_Incomplete
+1186,75,46574,китай,Высшее,Desktop,Супер быстро,2923,Китай,Desktop,1,Higher_or_Incomplete
+1187,42,85870,Deutschland,Высшее,Desktop,"Быстро, но упаковка повреждена",13193,Германия,Desktop,1,Higher_or_Incomplete
+1188,25,55500,франция,Среднее,Tablet,"Дороговато, но качество отличное",0,Франция,MobileDevice,0,Secondary_or_Special
+1189,36,69087,США,Среднее,Mobile,Так себе,7182,США,MobileDevice,0,Secondary_or_Special
+1190,69,63522,America,Неоконченное высшее,Tablet,Верните деньги,2920,США,MobileDevice,0,Higher_or_Incomplete
+1191,21,60890,U.S.A.,Среднее,Mobile,"Good service, but shipping took too long",5673,США,MobileDevice,0,Secondary_or_Special
+1192,23,58447,рф,Высшее,Mobile,"Great product, recommended",4578,Россия,MobileDevice,1,Higher_or_Incomplete
+1193,19,12974,Germany,Среднее,Desktop,"Неплохо, но есть нюансы",320,Германия,Desktop,0,Secondary_or_Special
+1194,75,24523,France,Высшее,Mobile,Не пришел заказ,2191,Франция,MobileDevice,1,Higher_or_Incomplete
+1195,46,104479,Britain,Высшее,Tablet,"Great product, recommended",4990,Великобритания,MobileDevice,1,Higher_or_Incomplete
+1196,71,20227,ФРГ,Среднее,Desktop,More or less ok,443,Германия,Desktop,0,Secondary_or_Special
+1197,35,57352,UK,Высшее,Desktop,"Sehr gut, empfehlenswert",297,Великобритания,Desktop,1,Higher_or_Incomplete
+1198,46,61380,россия,Высшее,Desktop,"Great product, recommended",6520,Россия,Desktop,1,Higher_or_Incomplete
+1199,54,82030,America,Среднее,Mobile,"Great product, recommended",4160,США,MobileDevice,0,Secondary_or_Special
+1200,58,95994,РОССИЯ,Среднее специальное,Desktop,"Дороговато, но качество отличное",2669,Россия,Desktop,0,Secondary_or_Special
+1201,29,60253,Соединенные Штаты,Неоконченное высшее,Mobile,"Great product, recommended",2378,США,MobileDevice,0,Higher_or_Incomplete
+1202,42,86831,Germany,Среднее специальное,Desktop,Не пришел заказ,7228,Германия,Desktop,0,Secondary_or_Special
+1203,61,59647,Российская Фередация,Неоконченное высшее,Desktop,Товар не соответствует описанию,4445,Россия,Desktop,0,Higher_or_Incomplete
+1204,37,46004,America,Высшее,Smartwatch,Все пришло в целости,1748,США,OtherDevice,1,Higher_or_Incomplete
+1205,53,82154,Франция,Среднее,Mobile,Not bad,7488,Франция,MobileDevice,0,Secondary_or_Special
+1206,66,75032,Соединенные Штаты,Высшее,Mobile,Почему не применилась скидка?,0,США,MobileDevice,1,Higher_or_Incomplete
+1207,53,94732,Соединенные Штаты,Высшее,Desktop,Not bad,6930,США,Desktop,1,Higher_or_Incomplete
+1208,66,73843,Англия,Среднее,Desktop,"Всё отлично, спасибо",8590,Великобритания,Desktop,0,Secondary_or_Special
+1209,59,47698,РФ,Неоконченное высшее,Mobile,Класс! Обязательно закажу еще,1406,Россия,MobileDevice,0,Higher_or_Incomplete
+1210,47,0,Britain,Среднее специальное,Desktop,"Great product, recommended",4864,Великобритания,Desktop,0,Secondary_or_Special
+1211,64,38005,Germany,Среднее,Desktop,Класс! Обязательно закажу еще,2153,Германия,Desktop,0,Secondary_or_Special
+1212,30,85617,Deutschland,Неоконченное высшее,Mobile,Средне,5875,Германия,MobileDevice,0,Higher_or_Incomplete
+1213,61,74267,UK,Высшее,Mobile,"Нормально, но интерфейс мог бы быть лучше",1365,Великобритания,MobileDevice,1,Higher_or_Incomplete
+1214,49,111873,германия,Среднее специальное,Smart TV,"Sehr gut, empfehlenswert",11494,Германия,OtherDevice,0,Secondary_or_Special
+1215,54,102324,Российская Федерация,Неоконченное высшее,Desktop,"Very good, will buy again",4451,Россия,Desktop,0,Higher_or_Incomplete
+1216,55,58899,Англия,Среднее специальное,Mobile,Очень доволен покупкой,2978,Великобритания,MobileDevice,0,Secondary_or_Special
+1217,42,73343,UK,Среднее,Smart TV,Alles perfekt!,11052,Великобритания,OtherDevice,0,Secondary_or_Special
+1218,67,60230,Франция,Высшее,Mobile,Нормальный магазин,8941,Франция,MobileDevice,1,Higher_or_Incomplete
+1219,29,63395,Российская Федерация,Неоконченное высшее,Desktop,Good,4398,Россия,Desktop,0,Higher_or_Incomplete
+1220,65,45534,Россия,Высшее,Mobile,"Good service, but shipping took too long",0,Россия,MobileDevice,1,Higher_or_Incomplete
+1221,29,53244,КНР,Высшее,Mobile,Nicht angekommen,8144,Китай,MobileDevice,1,Higher_or_Incomplete
+1222,42,56617,France,Среднее,Desktop,Не работает,2027,Франция,Desktop,0,Secondary_or_Special
+1223,35,64734,USA,Высшее,Mobile,"Доставка быстрая, упаковка целая",0,США,MobileDevice,1,Higher_or_Incomplete
+1224,34,61160,франция,Среднее,Mobile,"Нормально, но интерфейс мог бы быть лучше",7970,Франция,MobileDevice,0,Secondary_or_Special
+1225,69,76505,ФРГ,Неоконченное высшее,Tablet,"Perfect, arrived on time",3137,Германия,MobileDevice,0,Higher_or_Incomplete
+1226,48,96180,Франция,Высшее,Desktop,Сломалось через день,11837,Франция,Desktop,1,Higher_or_Incomplete
+1227,68,45751,Китай,Среднее,Desktop,Не могу войти в аккаунт,3322,Китай,Desktop,0,Secondary_or_Special
+1228,31,73734,UK,Неоконченное высшее,Desktop,Верните деньги,0,Великобритания,Desktop,0,Higher_or_Incomplete
+1229,37,60861,America,Высшее,Mobile,Верните деньги,6868,США,MobileDevice,1,Higher_or_Incomplete
+1230,52,44818,германия,Среднее,Tablet,Прекрасное качество,5921,Германия,MobileDevice,0,Secondary_or_Special
+1231,20,61911,Англия,Среднее специальное,Mobile,"Отличный сервис, быстро доставили",0,Великобритания,MobileDevice,0,Secondary_or_Special
+1232,32,78467,КНР,Среднее,Mobile,Обычный магазин,8562,Китай,MobileDevice,0,Secondary_or_Special
+1233,27,47607,France,Высшее,Tablet,Лучший магазин в котором покупал,3245,Франция,MobileDevice,1,Higher_or_Incomplete
+1234,39,74840,PRC,Высшее,Mobile,Верните деньги,1185,Китай,MobileDevice,1,Higher_or_Incomplete
+1235,19,11241,UK,Среднее,Mobile,"Great product, recommended",478,Великобритания,MobileDevice,0,Secondary_or_Special
+1236,45,115562,франция,Высшее,Desktop,"Нормально, но интерфейс мог бы быть лучше",9626,Франция,Desktop,1,Higher_or_Incomplete
+1237,55,96302,United Kingdom,Высшее,Desktop,Nicht angekommen,8823,Великобритания,Desktop,1,Higher_or_Incomplete
+1238,38,57915,ФРГ,Среднее,Desktop,Средне,1236,Германия,Desktop,0,Secondary_or_Special
+1239,72,50006,Великобритания,Среднее специальное,Desktop,Хороший ассортимент,0,Великобритания,Desktop,0,Secondary_or_Special
+1240,37,52664,United Kingdom,Среднее,Mobile,Ужасное обслуживание,6127,Великобритания,MobileDevice,0,Secondary_or_Special
+1241,62,62287,U.S.A.,Высшее,Mobile,More or less ok,6678,США,MobileDevice,1,Higher_or_Incomplete
+1242,18,15879,США,Неоконченное высшее,Smart TV,Верните деньги,1078,США,OtherDevice,0,Higher_or_Incomplete
+1243,49,76922,Российская Фередация,Высшее,Mobile,Good,5177,Россия,MobileDevice,1,Higher_or_Incomplete
+1244,53,106952,Российская Федерация,Неоконченное высшее,Desktop,Обманщики,8764,Россия,Desktop,0,Higher_or_Incomplete
+1245,52,68644,Российская Фередация,Высшее,Smartwatch,"Неплохо, но есть нюансы",1701,Россия,OtherDevice,1,Higher_or_Incomplete
+1246,67,73207,Britain,Среднее,Tablet,Ужасное обслуживание,1521,Великобритания,MobileDevice,0,Secondary_or_Special
+1247,70,33562,китай,Среднее,Desktop,"Дороговато, но качество отличное",5851,Китай,Desktop,0,Secondary_or_Special
+1248,75,64518,US,Среднее специальное,Smartwatch,Все пришло в целости,2515,США,OtherDevice,0,Secondary_or_Special
+1249,71,36223,Англия,Среднее,Desktop,Ужасное обслуживание,725,Великобритания,Desktop,0,Secondary_or_Special
+1250,43,122582,Великобритания,Среднее,Mobile,Лучший магазин в котором покупал,10826,Великобритания,MobileDevice,0,Secondary_or_Special
+1251,58,86952,PRC,Высшее,Mobile,Could be better,11230,Китай,MobileDevice,1,Higher_or_Incomplete
+1252,54,57117,Франция,Неоконченное высшее,Desktop,Прекрасное качество,1952,Франция,Desktop,0,Higher_or_Incomplete
+1253,72,30353,россия,Высшее,Desktop,Bad quality,3734,Россия,Desktop,1,Higher_or_Incomplete
+1254,23,48621,Германия,Высшее,Desktop,Сломалось через день,3923,Германия,Desktop,1,Higher_or_Incomplete
+1255,24,25071,Росия,Среднее,Desktop,"Отличный сервис, быстро доставили",2157,Россия,Desktop,0,Secondary_or_Special
+1256,62,28662,US,Высшее,Desktop,"Неплохо, но есть нюансы",3690,США,Desktop,1,Higher_or_Incomplete
+1257,70,69358,United Kingdom,Высшее,Desktop,Почему не применилась скидка?,2098,Великобритания,Desktop,1,Higher_or_Incomplete
+1258,44,112984,Россия,Высшее,Mobile,"Неплохо, но есть нюансы",1563,Россия,MobileDevice,1,Higher_or_Incomplete
+1259,33,63151,U.S.A.,Среднее,Desktop,Не могу войти в аккаунт,5545,США,Desktop,0,Secondary_or_Special
+1260,31,78931,America,Высшее,Desktop,Так себе,0,США,Desktop,1,Higher_or_Incomplete
+1261,49,64307,РОССИЯ,Среднее специальное,Mobile,"Неплохо, но есть нюансы",3230,Россия,MobileDevice,0,Secondary_or_Special
+1262,67,0,РФ,Высшее,Mobile,Not bad,5293,Россия,MobileDevice,1,Higher_or_Incomplete
+1263,45,107727,КНР,Среднее,Mobile,"Great product, recommended",4290,Китай,MobileDevice,0,Secondary_or_Special
+1264,52,82827,UK,Высшее,Mobile,"Sehr gut, empfehlenswert",0,Великобритания,MobileDevice,1,Higher_or_Incomplete
+1265,45,70202,China,Высшее,Desktop,Класс! Обязательно закажу еще,0,Китай,Desktop,1,Higher_or_Incomplete
+1266,26,25743,германия,Среднее,Desktop,Хороший ассортимент,0,Германия,Desktop,0,Secondary_or_Special
+1267,67,77243,РФ,Высшее,Mobile,"Perfect, arrived on time",1196,Россия,MobileDevice,1,Higher_or_Incomplete
+1268,49,114663,рф,Неоконченное высшее,Mobile,"Доставка быстрая, упаковка целая",0,Россия,MobileDevice,0,Higher_or_Incomplete
+1269,54,55117,China,Высшее,Tablet,Супер быстро,2945,Китай,MobileDevice,1,Higher_or_Incomplete
+1270,72,22317,Англия,Высшее,Mobile,Could be better,417,Великобритания,MobileDevice,1,Higher_or_Incomplete
+1271,50,46903,China,Среднее специальное,Mobile,"Доставка быстрая, упаковка целая",3981,Китай,MobileDevice,0,Secondary_or_Special
+1272,47,56044,германия,Неоконченное высшее,Desktop,"Неплохо, но есть нюансы",8588,Германия,Desktop,0,Higher_or_Incomplete
+1273,67,32807,Китай,Высшее,Tablet,"Great product, recommended",576,Китай,MobileDevice,1,Higher_or_Incomplete
+1274,39,45095,франция,Среднее,Mobile,Alles perfekt!,533,Франция,MobileDevice,0,Secondary_or_Special
+1275,63,38338,U.S.A.,Высшее,Tablet,Nicht angekommen,5060,США,MobileDevice,1,Higher_or_Incomplete
+1276,70,0,China,Высшее,Smart TV,Could be better,5440,Китай,OtherDevice,1,Higher_or_Incomplete
+1277,62,74519,ФРГ,Высшее,Mobile,Excellent service,2610,Германия,MobileDevice,1,Higher_or_Incomplete
+1278,28,54462,France,Среднее,Smart TV,Could be better,1831,Франция,OtherDevice,0,Secondary_or_Special
+1279,28,44937,Britain,Высшее,Desktop,Класс! Обязательно закажу еще,4363,Великобритания,Desktop,1,Higher_or_Incomplete
+1280,50,46416,Германия,Высшее,Mobile,Не пришел заказ,852,Германия,MobileDevice,1,Higher_or_Incomplete
+1281,69,72023,РФ,Неоконченное высшее,Smartwatch,Лучший магазин в котором покупал,2815,Россия,OtherDevice,0,Higher_or_Incomplete
+1282,55,73924,РФ,Среднее специальное,Mobile,"Доставка быстрая, упаковка целая",0,Россия,MobileDevice,0,Secondary_or_Special
+1283,75,75527,Germany,Высшее,Mobile,Ужасное обслуживание,1482,Германия,MobileDevice,1,Higher_or_Incomplete
+1284,42,110923,США,Высшее,Mobile,Очень доволен покупкой,6674,США,MobileDevice,1,Higher_or_Incomplete
+1285,49,109000,France,Высшее,Mobile,Прекрасное качество,10458,Франция,MobileDevice,1,Higher_or_Incomplete
+1286,69,55629,франция,Высшее,Desktop,Средне,1690,Франция,Desktop,1,Higher_or_Incomplete
+1287,19,10448,Китай,Высшее,Desktop,Excellent service,1192,Китай,Desktop,1,Higher_or_Incomplete
+1288,32,55461,United Kingdom,Высшее,Desktop,Excellent service,3067,Великобритания,Desktop,1,Higher_or_Incomplete
+1289,69,45455,США,Высшее,Mobile,Никому не советую,1944,США,MobileDevice,1,Higher_or_Incomplete
+1290,40,129403,Китай,Неоконченное высшее,Desktop,Bad quality,1951,Китай,Desktop,0,Higher_or_Incomplete
+1291,32,84430,PRC,Высшее,Tablet,Хороший ассортимент,8967,Китай,MobileDevice,1,Higher_or_Incomplete
+1292,21,26436,United Kingdom,Неоконченное высшее,Desktop,Хороший ассортимент,2656,Великобритания,Desktop,0,Higher_or_Incomplete
+1293,24,47056,США,Среднее,Mobile,"Быстро, но упаковка повреждена",3315,США,MobileDevice,0,Secondary_or_Special
+1294,62,78300,Германия,Среднее,Desktop,"Дороговато, но качество отличное",549,Германия,Desktop,0,Secondary_or_Special
+1295,62,57541,China,Высшее,Mobile,Прекрасное качество,1326,Китай,MobileDevice,1,Higher_or_Incomplete
+1296,39,0,Deutschland,Высшее,Tablet,Disappointed,6001,Германия,MobileDevice,1,Higher_or_Incomplete
+1297,18,8690,США,Среднее,Mobile,Не могу войти в аккаунт,0,США,MobileDevice,0,Secondary_or_Special
+1298,46,110004,Франция,Неоконченное высшее,Mobile,Лучший магазин в котором покупал,13158,Франция,MobileDevice,0,Higher_or_Incomplete
+1299,66,65033,France,Неоконченное высшее,Mobile,Could be better,3564,Франция,MobileDevice,0,Higher_or_Incomplete
+1300,74,44606,Россия,Высшее,Smartwatch,Не могу войти в аккаунт,5378,Россия,OtherDevice,1,Higher_or_Incomplete
+1301,74,48455,РОССИЯ,Высшее,Mobile,Не пришел заказ,3360,Россия,MobileDevice,1,Higher_or_Incomplete
+1302,36,64490,россия,Среднее,Desktop,Хороший ассортимент,0,Россия,Desktop,0,Secondary_or_Special
+1303,23,44303,Britain,Среднее,Mobile,Прекрасное качество,1445,Великобритания,MobileDevice,0,Secondary_or_Special
+1304,37,71048,Великобритания,Высшее,Desktop,Так себе,6142,Великобритания,Desktop,1,Higher_or_Incomplete
+1305,46,115956,германия,Высшее,Desktop,Класс! Обязательно закажу еще,5591,Германия,Desktop,1,Higher_or_Incomplete
+1306,66,58648,россия,Неоконченное высшее,Mobile,Обманщики,2606,Россия,MobileDevice,0,Higher_or_Incomplete
+1307,48,0,UK,Среднее,Tablet,Schlechte Qualität,0,Великобритания,MobileDevice,0,Secondary_or_Special
+1308,66,49428,США,Неоконченное высшее,Mobile,Прекрасное качество,6749,США,MobileDevice,0,Higher_or_Incomplete
+1309,27,63997,UK,Высшее,Desktop,More or less ok,444,Великобритания,Desktop,1,Higher_or_Incomplete
+1310,68,65902,PRC,Высшее,Mobile,Schlechte Qualität,1839,Китай,MobileDevice,1,Higher_or_Incomplete
+1311,54,53237,китай,Неоконченное высшее,Mobile,Средне,888,Китай,MobileDevice,0,Higher_or_Incomplete
+1312,43,73855,Англия,Высшее,Tablet,Товар не соответствует описанию,0,Великобритания,MobileDevice,1,Higher_or_Incomplete
+1313,48,90203,РОССИЯ,Неоконченное высшее,Mobile,More or less ok,3054,Россия,MobileDevice,0,Higher_or_Incomplete
+1314,26,44692,Франция,Высшее,Mobile,"Sehr gut, empfehlenswert",2861,Франция,MobileDevice,1,Higher_or_Incomplete
+1315,65,51749,Germany,Среднее,Mobile,Не работает,5139,Германия,MobileDevice,0,Secondary_or_Special
+1316,74,0,США,Неоконченное высшее,Mobile,"Very good, will buy again",2530,США,MobileDevice,0,Higher_or_Incomplete
+1317,70,50423,UK,Среднее,Mobile,Верните деньги,5960,Великобритания,MobileDevice,0,Secondary_or_Special
+1318,53,85843,Germany,Высшее,Mobile,Сломалось через день,16376,Германия,MobileDevice,1,Higher_or_Incomplete
+1319,32,89413,Англия,Среднее,Tablet,Супер быстро,6700,Великобритания,MobileDevice,0,Secondary_or_Special
+1320,69,20554,китай,Среднее,Desktop,Так себе,961,Китай,Desktop,0,Secondary_or_Special
+1321,47,94602,PRC,Среднее,Mobile,Not bad,3528,Китай,MobileDevice,0,Secondary_or_Special
+1322,61,27084,Deutschland,Среднее,Tablet,Не пришел заказ,1031,Германия,MobileDevice,0,Secondary_or_Special
+1323,27,58901,россия,Среднее,Desktop,Прекрасное качество,3334,Россия,Desktop,0,Secondary_or_Special
+1324,43,105891,КНР,Неоконченное высшее,Mobile,Прекрасное качество,8354,Китай,MobileDevice,0,Higher_or_Incomplete
+1325,40,121494,America,Неоконченное высшее,Mobile,Good,9827,США,MobileDevice,0,Higher_or_Incomplete
+1326,61,78955,Российская Фередация,Высшее,Desktop,"Доставка быстрая, упаковка целая",8544,Россия,Desktop,1,Higher_or_Incomplete
+1327,36,75393,France,Неоконченное высшее,Desktop,Супер быстро,3854,Франция,Desktop,0,Higher_or_Incomplete
+1328,51,79106,США,Среднее специальное,Mobile,Good,1391,США,MobileDevice,0,Secondary_or_Special
+1329,49,98598,Соединенные Штаты,Среднее,Mobile,Excellent service,3385,США,MobileDevice,0,Secondary_or_Special
+1330,49,66539,франция,Высшее,Mobile,"Нормально, но интерфейс мог бы быть лучше",0,Франция,MobileDevice,1,Higher_or_Incomplete
+1331,30,92884,РОССИЯ,Неоконченное высшее,Desktop,Не могу войти в аккаунт,13819,Россия,Desktop,0,Higher_or_Incomplete
+1332,74,42567,россия,Среднее,Mobile,"Perfect, arrived on time",5755,Россия,MobileDevice,0,Secondary_or_Special
+1333,56,108697,United Kingdom,Высшее,Tablet,"Всё отлично, спасибо",8856,Великобритания,MobileDevice,1,Higher_or_Incomplete
+1334,19,7484,America,Среднее специальное,Mobile,Не работает,177,США,MobileDevice,0,Secondary_or_Special
+1335,42,88526,China,Среднее,Mobile,Обманщики,0,Китай,MobileDevice,0,Secondary_or_Special
+1336,62,27588,France,Среднее,Mobile,Все пришло в целости,2007,Франция,MobileDevice,0,Secondary_or_Special
+1337,60,26617,германия,Среднее,Mobile,Не пришел заказ,3971,Германия,MobileDevice,0,Secondary_or_Special
+1338,24,57619,Соединенные Штаты,Неоконченное высшее,Smart TV,Ужасное обслуживание,2894,США,OtherDevice,0,Higher_or_Incomplete
+1339,31,90102,Германия,Высшее,Desktop,Disappointed,13691,Германия,Desktop,1,Higher_or_Incomplete
+1340,22,31638,United Kingdom,Среднее,Smart TV,"Нормально, но интерфейс мог бы быть лучше",0,Великобритания,OtherDevice,0,Secondary_or_Special
+1341,29,27585,Deutschland,Высшее,Mobile,Лучший магазин в котором покупал,0,Германия,MobileDevice,1,Higher_or_Incomplete
+1342,59,62349,франция,Высшее,Desktop,Good,0,Франция,Desktop,1,Higher_or_Incomplete
+1343,43,114839,франция,Неоконченное высшее,Desktop,Класс! Обязательно закажу еще,0,Франция,Desktop,0,Higher_or_Incomplete
+1344,64,23843,USA,Высшее,Desktop,Верните деньги,835,США,Desktop,1,Higher_or_Incomplete
+1345,57,43777,United Kingdom,Среднее,Mobile,"Нормально, но интерфейс мог бы быть лучше",0,Великобритания,MobileDevice,0,Secondary_or_Special
+1346,59,0,Britain,Неоконченное высшее,Desktop,Прекрасное качество,716,Великобритания,Desktop,0,Higher_or_Incomplete
+1347,45,87581,Англия,Высшее,Desktop,"Отличный сервис, быстро доставили",3240,Великобритания,Desktop,1,Higher_or_Incomplete
+1348,72,52495,рф,Высшее,Mobile,"Great product, recommended",3773,Россия,MobileDevice,1,Higher_or_Incomplete
+1349,70,0,франция,Высшее,Tablet,"Good service, but shipping took too long",675,Франция,MobileDevice,1,Higher_or_Incomplete
+1350,24,51439,КНР,Высшее,Mobile,Disappointed,1223,Китай,MobileDevice,1,Higher_or_Incomplete
+1351,59,99796,Germany,Неоконченное высшее,Desktop,Сломалось через день,10397,Германия,Desktop,0,Higher_or_Incomplete
+1352,41,114314,United Kingdom,Высшее,Mobile,Not bad,1232,Великобритания,MobileDevice,1,Higher_or_Incomplete
+1353,75,30758,Англия,Высшее,Desktop,"Very good, will buy again",2069,Великобритания,Desktop,1,Higher_or_Incomplete
+1354,63,42146,France,Среднее специальное,Desktop,Excellent service,2774,Франция,Desktop,0,Secondary_or_Special
+1355,50,57647,РФ,Среднее,Mobile,Not bad,4714,Россия,MobileDevice,0,Secondary_or_Special
+1356,55,62760,USA,Высшее,Desktop,Ужасное обслуживание,4531,США,Desktop,1,Higher_or_Incomplete
+1357,35,71074,ФРГ,Неоконченное высшее,Mobile,Не пришел заказ,6988,Германия,MobileDevice,0,Higher_or_Incomplete
+1358,73,40572,Китай,Высшее,Desktop,Никому не советую,3894,Китай,Desktop,1,Higher_or_Incomplete
+1359,29,58023,Великобритания,Среднее,Desktop,Средне,2533,Великобритания,Desktop,0,Secondary_or_Special
+1360,61,69012,китай,Неоконченное высшее,Mobile,Nicht angekommen,0,Китай,MobileDevice,0,Higher_or_Incomplete
+1361,27,28477,Соединенные Штаты,Неоконченное высшее,Mobile,Bad quality,0,США,MobileDevice,0,Higher_or_Incomplete
+1362,21,44342,China,Высшее,Mobile,Не пришел заказ,2367,Китай,MobileDevice,1,Higher_or_Incomplete
+1363,53,90972,Великобритания,Среднее,Mobile,Так себе,7149,Великобритания,MobileDevice,0,Secondary_or_Special
+1364,53,0,Германия,Среднее,Desktop,"Very good, will buy again",3602,Германия,Desktop,0,Secondary_or_Special
+1365,66,58560,Китай,Неоконченное высшее,Smart TV,Good,2212,Китай,OtherDevice,0,Higher_or_Incomplete
+1366,65,53675,россия,Высшее,Mobile,Обманщики,7398,Россия,MobileDevice,1,Higher_or_Incomplete
+1367,27,27617,германия,Высшее,Tablet,Bad quality,1021,Германия,MobileDevice,1,Higher_or_Incomplete
+1368,22,45831,U.S.A.,Высшее,Desktop,Не работает,1785,США,Desktop,1,Higher_or_Incomplete
+1369,60,41750,Германия,Среднее специальное,Desktop,Обманщики,1341,Германия,Desktop,0,Secondary_or_Special
+1370,60,42675,Britain,Среднее специальное,Mobile,Никому не советую,1893,Великобритания,MobileDevice,0,Secondary_or_Special
+1371,42,88631,Germany,Среднее специальное,Desktop,Сломалось через день,5122,Германия,Desktop,0,Secondary_or_Special
+1372,75,62698,China,Среднее специальное,Mobile,Не могу войти в аккаунт,1669,Китай,MobileDevice,0,Secondary_or_Special
+1373,73,64918,Российская Фередация,Среднее,Desktop,"Быстро, но упаковка повреждена",1064,Россия,Desktop,0,Secondary_or_Special
+1374,19,15047,Великобритания,Высшее,Mobile,Not bad,0,Великобритания,MobileDevice,1,Higher_or_Incomplete
+1375,70,34918,Франция,Среднее,Mobile,Alles perfekt!,798,Франция,MobileDevice,0,Secondary_or_Special
+1376,66,68886,UK,Высшее,Desktop,Bad quality,6042,Великобритания,Desktop,1,Higher_or_Incomplete
+1377,42,106788,рф,Высшее,Mobile,"Доставка быстрая, упаковка целая",6562,Россия,MobileDevice,1,Higher_or_Incomplete
+1378,27,44533,Великобритания,Среднее специальное,Mobile,Класс! Обязательно закажу еще,0,Великобритания,MobileDevice,0,Secondary_or_Special
+1379,54,91653,Российская Федерация,Высшее,Desktop,Нормальный магазин,5801,Россия,Desktop,1,Higher_or_Incomplete
+1380,27,35548,китай,Высшее,Mobile,Лучший магазин в котором покупал,3856,Китай,MobileDevice,1,Higher_or_Incomplete
+1381,47,0,UK,Высшее,Mobile,"Неплохо, но есть нюансы",1538,Великобритания,MobileDevice,1,Higher_or_Incomplete
+1382,24,43686,Соединенные Штаты,Среднее,Mobile,"Дороговато, но качество отличное",1993,США,MobileDevice,0,Secondary_or_Special
+1383,69,40731,USA,Высшее,Desktop,Disappointed,1085,США,Desktop,1,Higher_or_Incomplete
+1384,61,68036,Франция,Высшее,Desktop,Nicht angekommen,5086,Франция,Desktop,1,Higher_or_Incomplete
+1385,72,74161,Китай,Высшее,Tablet,Nicht angekommen,15799,Китай,MobileDevice,1,Higher_or_Incomplete
+1386,19,19067,PRC,Неоконченное высшее,Mobile,Bad quality,3183,Китай,MobileDevice,0,Higher_or_Incomplete
+1387,59,59481,U.S.A.,Среднее,Mobile,Не работает,0,США,MobileDevice,0,Secondary_or_Special
+1388,41,0,U.S.A.,Среднее,Desktop,Good,2501,США,Desktop,0,Secondary_or_Special
+1389,65,67972,Germany,Высшее,Mobile,"Неплохо, но есть нюансы",12227,Германия,MobileDevice,1,Higher_or_Incomplete
+1390,68,43674,France,Высшее,Desktop,Не работает,7403,Франция,Desktop,1,Higher_or_Incomplete
+1391,34,82921,US,Среднее,Mobile,"Great product, recommended",3522,США,MobileDevice,0,Secondary_or_Special
+1392,51,93194,ФРГ,Неоконченное высшее,Tablet,Почему не применилась скидка?,10437,Германия,MobileDevice,0,Higher_or_Incomplete
+1393,59,76806,США,Высшее,Desktop,Товар не соответствует описанию,3057,США,Desktop,1,Higher_or_Incomplete
+1394,48,117759,Китай,Среднее,Mobile,"Всё отлично, спасибо",2659,Китай,MobileDevice,0,Secondary_or_Special
+1395,75,57504,Соединенные Штаты,Среднее специальное,Desktop,Schlechte Qualität,7369,США,Desktop,0,Secondary_or_Special
+1396,60,73824,Российская Фередация,Высшее,Smartwatch,"Sehr gut, empfehlenswert",9877,Россия,OtherDevice,1,Higher_or_Incomplete
+1397,70,70298,Britain,Высшее,Desktop,Средне,5177,Великобритания,Desktop,1,Higher_or_Incomplete
+1398,26,0,КНР,Среднее,Desktop,"Всё отлично, спасибо",497,Китай,Desktop,0,Secondary_or_Special
+1399,74,71371,Россия,Среднее,Mobile,Обманщики,0,Россия,MobileDevice,0,Secondary_or_Special
+1400,67,64470,PRC,Высшее,Mobile,Нормальный магазин,3727,Китай,MobileDevice,1,Higher_or_Incomplete
+1401,40,67807,ФРГ,Неоконченное высшее,Tablet,Средне,4545,Германия,MobileDevice,0,Higher_or_Incomplete
+1402,18,23237,UK,Среднее,Mobile,"Быстро, но упаковка повреждена",2672,Великобритания,MobileDevice,0,Secondary_or_Special
+1403,41,68970,Britain,Высшее,Tablet,Никому не советую,8604,Великобритания,MobileDevice,1,Higher_or_Incomplete
+1404,66,33349,PRC,Высшее,Desktop,Could be better,3825,Китай,Desktop,1,Higher_or_Incomplete
+1405,65,29048,UK,Среднее,Mobile,Класс! Обязательно закажу еще,838,Великобритания,MobileDevice,0,Secondary_or_Special
+1406,69,56082,UK,Высшее,Smart TV,Лучший магазин в котором покупал,0,Великобритания,OtherDevice,1,Higher_or_Incomplete
+1407,56,97065,Германия,Высшее,Desktop,Так себе,7078,Германия,Desktop,1,Higher_or_Incomplete
+1408,56,47531,America,Среднее,Mobile,Bad quality,3222,США,MobileDevice,0,Secondary_or_Special
+1409,51,70365,UK,Высшее,Desktop,"Perfect, arrived on time",8444,Великобритания,Desktop,1,Higher_or_Incomplete
+1410,43,81255,UK,Среднее специальное,Desktop,Schlechte Qualität,4175,Великобритания,Desktop,0,Secondary_or_Special
+1411,32,84738,Франция,Среднее,Mobile,Nicht angekommen,5787,Франция,MobileDevice,0,Secondary_or_Special
+1412,25,58638,КНР,Высшее,Mobile,Верните деньги,8544,Китай,MobileDevice,1,Higher_or_Incomplete
+1413,61,50193,рф,Высшее,Mobile,Прекрасное качество,2715,Россия,MobileDevice,1,Higher_or_Incomplete
+1414,40,122699,Великобритания,Высшее,Mobile,Обманщики,4083,Великобритания,MobileDevice,1,Higher_or_Incomplete
+1415,48,96139,китай,Высшее,Desktop,"Дороговато, но качество отличное",7261,Китай,Desktop,1,Higher_or_Incomplete
+1416,31,60021,U.S.A.,Высшее,Desktop,Прекрасное качество,882,США,Desktop,1,Higher_or_Incomplete
+1417,66,76170,рф,Высшее,Mobile,Обычный магазин,6231,Россия,MobileDevice,1,Higher_or_Incomplete
+1418,35,71075,Китай,Высшее,Desktop,Не могу войти в аккаунт,2987,Китай,Desktop,1,Higher_or_Incomplete
+1419,47,70776,Франция,Среднее,Mobile,Средне,0,Франция,MobileDevice,0,Secondary_or_Special
+1420,41,89039,Германия,Высшее,Smart TV,Good,8984,Германия,OtherDevice,1,Higher_or_Incomplete
+1421,66,44399,Франция,Среднее,Desktop,Товар не соответствует описанию,1567,Франция,Desktop,0,Secondary_or_Special
+1422,53,96651,США,Неоконченное высшее,Desktop,"Всё отлично, спасибо",7690,США,Desktop,0,Higher_or_Incomplete
+1423,51,109990,Франция,Высшее,Tablet,"Good service, but shipping took too long",14865,Франция,MobileDevice,1,Higher_or_Incomplete
+1424,34,76230,рф,Среднее,Mobile,Не работает,819,Россия,MobileDevice,0,Secondary_or_Special
+1425,44,70890,Britain,Высшее,Desktop,Почему не применилась скидка?,2668,Великобритания,Desktop,1,Higher_or_Incomplete
+1426,61,53452,Англия,Неоконченное высшее,Mobile,"Быстро, но упаковка повреждена",6480,Великобритания,MobileDevice,0,Higher_or_Incomplete
+1427,69,42111,КНР,Высшее,Tablet,Хороший ассортимент,3251,Китай,MobileDevice,1,Higher_or_Incomplete
+1428,63,37529,Франция,Неоконченное высшее,Desktop,Schlechte Qualität,1518,Франция,Desktop,0,Higher_or_Incomplete
+1429,29,26513,America,Высшее,Desktop,"Sehr gut, empfehlenswert",184,США,Desktop,1,Higher_or_Incomplete
+1430,74,51010,россия,Среднее,Smartwatch,Средне,4915,Россия,OtherDevice,0,Secondary_or_Special
+1431,37,60031,ФРГ,Среднее,Mobile,"Отличный сервис, быстро доставили",8478,Германия,MobileDevice,0,Secondary_or_Special
+1432,73,51205,китай,Среднее,Mobile,Почему не применилась скидка?,3511,Китай,MobileDevice,0,Secondary_or_Special
+1433,58,97013,Britain,Высшее,Mobile,Excellent service,0,Великобритания,MobileDevice,1,Higher_or_Incomplete
+1434,37,68971,Соединенные Штаты,Высшее,Desktop,Could be better,8784,США,Desktop,1,Higher_or_Incomplete
+1435,66,51265,Франция,Среднее,Desktop,Нормальный магазин,2173,Франция,Desktop,0,Secondary_or_Special
+1436,33,55700,Англия,Неоконченное высшее,Mobile,"Быстро, но упаковка повреждена",11073,Великобритания,MobileDevice,0,Higher_or_Incomplete
+1437,57,75633,Britain,Неоконченное высшее,Mobile,"Всё отлично, спасибо",14339,Великобритания,MobileDevice,0,Higher_or_Incomplete
+1438,46,90669,France,Высшее,Mobile,"Всё отлично, спасибо",1302,Франция,MobileDevice,1,Higher_or_Incomplete
+1439,63,48732,USA,Высшее,Mobile,Could be better,3172,США,MobileDevice,1,Higher_or_Incomplete
+1440,47,59159,USA,Высшее,Mobile,Good,4931,США,MobileDevice,1,Higher_or_Incomplete
+1441,71,20826,United Kingdom,Высшее,Smart TV,Не могу войти в аккаунт,809,Великобритания,OtherDevice,1,Higher_or_Incomplete
+1442,51,67321,Великобритания,Среднее специальное,Mobile,Все пришло в целости,2703,Великобритания,MobileDevice,0,Secondary_or_Special
+1443,48,94166,Российская Фередация,Среднее специальное,Mobile,"Нормально, но интерфейс мог бы быть лучше",2221,Россия,MobileDevice,0,Secondary_or_Special
+1444,43,0,рф,Среднее,Mobile,"Всё отлично, спасибо",4394,Россия,MobileDevice,0,Secondary_or_Special
+1445,66,0,Германия,Среднее,Desktop,Нормальный магазин,4278,Германия,Desktop,0,Secondary_or_Special
+1446,69,78444,USA,Среднее,Mobile,"Нормально, но интерфейс мог бы быть лучше",6839,США,MobileDevice,0,Secondary_or_Special
+1447,52,104237,U.S.A.,Высшее,Desktop,Обманщики,2296,США,Desktop,1,Higher_or_Incomplete
+1448,46,93754,китай,Среднее,Desktop,"Дороговато, но качество отличное",2135,Китай,Desktop,0,Secondary_or_Special
+1449,67,60645,UK,Среднее,Desktop,"Great product, recommended",3317,Великобритания,Desktop,0,Secondary_or_Special
+1450,57,77110,Великобритания,Высшее,Desktop,Лучший магазин в котором покупал,1397,Великобритания,Desktop,1,Higher_or_Incomplete
+1451,30,52015,РФ,Среднее,Desktop,Not bad,548,Россия,Desktop,0,Secondary_or_Special
+1452,41,83930,РФ,Среднее специальное,Mobile,Супер быстро,6352,Россия,MobileDevice,0,Secondary_or_Special
+1453,65,78355,Germany,Неоконченное высшее,Mobile,Nicht angekommen,4488,Германия,MobileDevice,0,Higher_or_Incomplete
+1454,51,52729,U.S.A.,Высшее,Mobile,Очень доволен покупкой,2595,США,MobileDevice,1,Higher_or_Incomplete
+1455,53,94419,Britain,Высшее,Mobile,"Good service, but shipping took too long",2935,Великобритания,MobileDevice,1,Higher_or_Incomplete
+1456,50,84238,КНР,Высшее,Mobile,Никому не советую,9505,Китай,MobileDevice,1,Higher_or_Incomplete
+1457,45,97395,КНР,Высшее,Desktop,"Неплохо, но есть нюансы",3916,Китай,Desktop,1,Higher_or_Incomplete
+1458,18,23799,Российская Федерация,Среднее,Desktop,"Perfect, arrived on time",1112,Россия,Desktop,0,Secondary_or_Special
+1459,19,22600,германия,Среднее,Desktop,Класс! Обязательно закажу еще,0,Германия,Desktop,0,Secondary_or_Special
+1460,40,75461,германия,Высшее,Mobile,Очень доволен покупкой,2322,Германия,MobileDevice,1,Higher_or_Incomplete
+1461,64,41279,US,Неоконченное высшее,Desktop,Очень доволен покупкой,1635,США,Desktop,0,Higher_or_Incomplete
+1462,42,65286,Deutschland,Неоконченное высшее,Mobile,Все пришло в целости,1091,Германия,MobileDevice,0,Higher_or_Incomplete
+1463,58,0,China,Высшее,Desktop,Не пришел заказ,2343,Китай,Desktop,1,Higher_or_Incomplete
+1464,46,121155,Франция,Неоконченное высшее,Mobile,Супер быстро,8997,Франция,MobileDevice,0,Higher_or_Incomplete
+1465,34,50575,франция,Высшее,Mobile,Супер быстро,2988,Франция,MobileDevice,1,Higher_or_Incomplete
+1466,57,108714,Российская Федерация,Неоконченное высшее,Mobile,Класс! Обязательно закажу еще,3476,Россия,MobileDevice,0,Higher_or_Incomplete
+1467,30,66019,UK,Неоконченное высшее,Mobile,Обманщики,2638,Великобритания,MobileDevice,0,Higher_or_Incomplete
+1468,46,60882,США,Среднее,Mobile,Класс! Обязательно закажу еще,1275,США,MobileDevice,0,Secondary_or_Special
+1469,73,74555,РОССИЯ,Среднее,Mobile,"Нормально, но интерфейс мог бы быть лучше",4401,Россия,MobileDevice,0,Secondary_or_Special
+1470,31,80810,германия,Среднее,Desktop,Не пришел заказ,13878,Германия,Desktop,0,Secondary_or_Special
+1471,51,45699,Российская Федерация,Высшее,Desktop,Супер быстро,2201,Россия,Desktop,1,Higher_or_Incomplete
+1472,60,37780,Великобритания,Неоконченное высшее,Mobile,Нормальный магазин,660,Великобритания,MobileDevice,0,Higher_or_Incomplete
+1473,75,40673,КНР,Высшее,Mobile,Не пришел заказ,0,Китай,MobileDevice,1,Higher_or_Incomplete
+1474,33,79695,Франция,Среднее,Mobile,"Неплохо, но есть нюансы",3766,Франция,MobileDevice,0,Secondary_or_Special
+1475,35,49063,France,Среднее специальное,Tablet,Хороший ассортимент,1606,Франция,MobileDevice,0,Secondary_or_Special
+1476,64,45048,Britain,Неоконченное высшее,Desktop,Очень доволен покупкой,6395,Великобритания,Desktop,0,Higher_or_Incomplete
+1477,39,74436,America,Высшее,Desktop,"Perfect, arrived on time",4288,США,Desktop,1,Higher_or_Incomplete
+1478,45,74025,Китай,Высшее,Desktop,"Всё отлично, спасибо",904,Китай,Desktop,1,Higher_or_Incomplete
+1479,66,40885,Франция,Высшее,Desktop,Bad quality,585,Франция,Desktop,1,Higher_or_Incomplete
+1480,29,26716,КНР,Высшее,Desktop,Товар не соответствует описанию,599,Китай,Desktop,1,Higher_or_Incomplete
+1481,62,71106,КНР,Среднее,Desktop,Обычный магазин,4779,Китай,Desktop,0,Secondary_or_Special
+1482,20,51777,Российская Федерация,Среднее специальное,Mobile,Excellent service,1598,Россия,MobileDevice,0,Secondary_or_Special
+1483,73,60439,ФРГ,Неоконченное высшее,Mobile,Не пришел заказ,9603,Германия,MobileDevice,0,Higher_or_Incomplete
+1484,57,108843,UK,Среднее,Mobile,"Great product, recommended",2582,Великобритания,MobileDevice,0,Secondary_or_Special
+1485,53,90777,UK,Высшее,Mobile,Обычный магазин,1397,Великобритания,MobileDevice,1,Higher_or_Incomplete
+1486,62,53880,франция,Среднее,Desktop,Excellent service,7256,Франция,Desktop,0,Secondary_or_Special
+1487,26,50760,France,Высшее,Desktop,"Very good, will buy again",2623,Франция,Desktop,1,Higher_or_Incomplete
+1488,59,61495,Россия,Высшее,Mobile,"Great product, recommended",9322,Россия,MobileDevice,1,Higher_or_Incomplete
+1489,57,60958,France,Неоконченное высшее,Tablet,Обманщики,2599,Франция,MobileDevice,0,Higher_or_Incomplete
+1490,67,0,Deutschland,Среднее,Smart TV,Почему не применилась скидка?,0,Германия,OtherDevice,0,Secondary_or_Special
+1491,26,0,Germany,Среднее,Tablet,Очень доволен покупкой,1842,Германия,MobileDevice,0,Secondary_or_Special
+1492,47,108759,КНР,Высшее,Tablet,Disappointed,2067,Китай,MobileDevice,1,Higher_or_Incomplete
+1493,29,0,Germany,Высшее,Mobile,Bad quality,478,Германия,MobileDevice,1,Higher_or_Incomplete
+1494,44,78363,германия,Среднее,Desktop,Почему не применилась скидка?,4509,Германия,Desktop,0,Secondary_or_Special
+1495,20,31103,Deutschland,Неоконченное высшее,Desktop,Nicht angekommen,1741,Германия,Desktop,0,Higher_or_Incomplete
+1496,39,79540,America,Высшее,Mobile,Disappointed,3680,США,MobileDevice,1,Higher_or_Incomplete
+1497,68,66321,китай,Высшее,Desktop,Good,4833,Китай,Desktop,1,Higher_or_Incomplete
+1498,49,78580,America,Высшее,Mobile,Супер быстро,4427,США,MobileDevice,1,Higher_or_Incomplete
+1499,69,60324,France,Высшее,Desktop,"Отличный сервис, быстро доставили",3077,Франция,Desktop,1,Higher_or_Incomplete
+1500,68,24445,КНР,Высшее,Mobile,"Неплохо, но есть нюансы",212,Китай,MobileDevice,1,Higher_or_Incomplete
+1501,71,31510,ФРГ,Среднее специальное,Desktop,"Great product, recommended",3633,Германия,Desktop,0,Secondary_or_Special
+1502,75,41961,франция,Высшее,Desktop,"Sehr gut, empfehlenswert",5001,Франция,Desktop,1,Higher_or_Incomplete
+1503,54,83479,Germany,Среднее специальное,Mobile,Not bad,0,Германия,MobileDevice,0,Secondary_or_Special
+1504,71,30876,France,Среднее,Tablet,"Perfect, arrived on time",2950,Франция,MobileDevice,0,Secondary_or_Special
+1505,44,66376,Соединенные Штаты,Среднее,Smart TV,"Нормально, но интерфейс мог бы быть лучше",1954,США,OtherDevice,0,Secondary_or_Special
+1506,67,33244,франция,Высшее,Mobile,"Great product, recommended",3065,Франция,MobileDevice,1,Higher_or_Incomplete
+1507,37,66452,Росия,Высшее,Mobile,Не могу войти в аккаунт,2865,Россия,MobileDevice,1,Higher_or_Incomplete
+1508,61,75582,РОССИЯ,Среднее,Mobile,Сломалось через день,5846,Россия,MobileDevice,0,Secondary_or_Special
+1509,37,86867,Германия,Высшее,Mobile,Good,2416,Германия,MobileDevice,1,Higher_or_Incomplete
+1510,35,0,КНР,Среднее,Mobile,Excellent service,1312,Китай,MobileDevice,0,Secondary_or_Special
+1511,36,82623,Российская Федерация,Среднее,Mobile,"Отличный сервис, быстро доставили",5789,Россия,MobileDevice,0,Secondary_or_Special
+1512,24,0,Франция,Высшее,Desktop,"Perfect, arrived on time",4574,Франция,Desktop,1,Higher_or_Incomplete
+1513,39,57985,Britain,Высшее,Tablet,"Very good, will buy again",1260,Великобритания,MobileDevice,1,Higher_or_Incomplete
+1514,62,50688,ФРГ,Среднее,Tablet,"Неплохо, но есть нюансы",0,Германия,MobileDevice,0,Secondary_or_Special
+1515,43,79032,Великобритания,Неоконченное высшее,Tablet,Обычный магазин,5301,Великобритания,MobileDevice,0,Higher_or_Incomplete
+1516,47,77387,германия,Среднее,Desktop,"Быстро, но упаковка повреждена",2597,Германия,Desktop,0,Secondary_or_Special
+1517,22,44799,франция,Высшее,Desktop,Товар не соответствует описанию,4252,Франция,Desktop,1,Higher_or_Incomplete
+1518,70,65485,франция,Неоконченное высшее,Desktop,"Дороговато, но качество отличное",1925,Франция,Desktop,0,Higher_or_Incomplete
+1519,54,103783,PRC,Высшее,Mobile,"Good service, but shipping took too long",6031,Китай,MobileDevice,1,Higher_or_Incomplete
+1520,61,73350,Франция,Среднее,Desktop,"Доставка быстрая, упаковка целая",0,Франция,Desktop,0,Secondary_or_Special
+1521,58,40024,United Kingdom,Среднее,Mobile,"Неплохо, но есть нюансы",1809,Великобритания,MobileDevice,0,Secondary_or_Special
+1522,37,82373,Великобритания,Среднее специальное,Tablet,Очень доволен покупкой,2625,Великобритания,MobileDevice,0,Secondary_or_Special
+1523,50,92978,Germany,Высшее,Desktop,"Неплохо, но есть нюансы",0,Германия,Desktop,1,Higher_or_Incomplete
+1524,25,43494,US,Среднее,Mobile,Нормальный магазин,2952,США,MobileDevice,0,Secondary_or_Special
+1525,60,31364,U.S.A.,Высшее,Tablet,Nicht angekommen,928,США,MobileDevice,1,Higher_or_Incomplete
+1526,59,42058,франция,Высшее,Smartwatch,More or less ok,0,Франция,OtherDevice,1,Higher_or_Incomplete
+1527,47,110797,франция,Высшее,Desktop,Очень доволен покупкой,5932,Франция,Desktop,1,Higher_or_Incomplete
+1528,49,86031,ФРГ,Среднее специальное,Desktop,"Дороговато, но качество отличное",0,Германия,Desktop,0,Secondary_or_Special
+1529,41,69832,UK,Высшее,Desktop,Класс! Обязательно закажу еще,6279,Великобритания,Desktop,1,Higher_or_Incomplete
+1530,51,51592,UK,Среднее,Desktop,"Отличный сервис, быстро доставили",3221,Великобритания,Desktop,0,Secondary_or_Special
+1531,48,114511,франция,Среднее,Mobile,"Дороговато, но качество отличное",6347,Франция,MobileDevice,0,Secondary_or_Special
+1532,56,79855,китай,Высшее,Mobile,Очень доволен покупкой,3519,Китай,MobileDevice,1,Higher_or_Incomplete
+1533,19,9398,France,Высшее,Mobile,Обманщики,1017,Франция,MobileDevice,1,Higher_or_Incomplete
+1534,34,45930,Китай,Среднее специальное,Desktop,Не пришел заказ,1557,Китай,Desktop,0,Secondary_or_Special
+1535,33,76779,China,Высшее,Mobile,More or less ok,0,Китай,MobileDevice,1,Higher_or_Incomplete
+1536,49,109125,America,Высшее,Desktop,Could be better,7017,США,Desktop,1,Higher_or_Incomplete
+1537,66,73708,US,Высшее,Mobile,"Быстро, но упаковка повреждена",9947,США,MobileDevice,1,Higher_or_Incomplete
+1538,63,45563,U.S.A.,Неоконченное высшее,Mobile,"Great product, recommended",5227,США,MobileDevice,0,Higher_or_Incomplete
+1539,61,22688,китай,Среднее специальное,Mobile,Сломалось через день,1781,Китай,MobileDevice,0,Secondary_or_Special
+1540,24,41734,Франция,Неоконченное высшее,Desktop,"Быстро, но упаковка повреждена",1918,Франция,Desktop,0,Higher_or_Incomplete
+1541,62,31791,РФ,Неоконченное высшее,Mobile,"Неплохо, но есть нюансы",0,Россия,MobileDevice,0,Higher_or_Incomplete
+1542,32,92530,USA,Высшее,Mobile,Прекрасное качество,4449,США,MobileDevice,1,Higher_or_Incomplete
+1543,25,32862,Китай,Высшее,Desktop,Все пришло в целости,1991,Китай,Desktop,1,Higher_or_Incomplete
+1544,29,41602,UK,Среднее,Tablet,Хороший ассортимент,5037,Великобритания,MobileDevice,0,Secondary_or_Special
+1545,34,55614,Germany,Высшее,Mobile,Good,0,Германия,MobileDevice,1,Higher_or_Incomplete
+1546,46,64096,U.S.A.,Высшее,Desktop,Нормальный магазин,0,США,Desktop,1,Higher_or_Incomplete
+1547,57,53926,Великобритания,Высшее,Mobile,Верните деньги,3144,Великобритания,MobileDevice,1,Higher_or_Incomplete
+1548,27,25056,Англия,Высшее,Desktop,Excellent service,2230,Великобритания,Desktop,1,Higher_or_Incomplete
+1549,49,117670,UK,Среднее,Mobile,Not bad,18512,Великобритания,MobileDevice,0,Secondary_or_Special
+1550,40,98704,France,Среднее,Smart TV,"Good service, but shipping took too long",0,Франция,OtherDevice,0,Secondary_or_Special
+1551,71,50122,Германия,Высшее,Mobile,"Good service, but shipping took too long",4431,Германия,MobileDevice,1,Higher_or_Incomplete
+1552,58,87089,Англия,Среднее,Mobile,Так себе,10921,Великобритания,MobileDevice,0,Secondary_or_Special
+1553,22,60425,франция,Среднее специальное,Desktop,Сломалось через день,3757,Франция,Desktop,0,Secondary_or_Special
+1554,64,22805,America,Среднее,Mobile,Нормальный магазин,942,США,MobileDevice,0,Secondary_or_Special
+1555,22,27416,франция,Высшее,Tablet,Good,2185,Франция,MobileDevice,1,Higher_or_Incomplete
+1556,58,46548,рф,Среднее,Desktop,Обычный магазин,0,Россия,Desktop,0,Secondary_or_Special
+1557,56,0,US,Высшее,Desktop,Очень доволен покупкой,1252,США,Desktop,1,Higher_or_Incomplete
+1558,52,58000,USA,Среднее,Mobile,Good,0,США,MobileDevice,0,Secondary_or_Special
+1559,62,44243,France,Среднее специальное,Mobile,Так себе,0,Франция,MobileDevice,0,Secondary_or_Special
+1560,67,0,France,Высшее,Mobile,Так себе,0,Франция,MobileDevice,1,Higher_or_Incomplete
+1561,62,72914,франция,Высшее,Mobile,Очень доволен покупкой,4044,Франция,MobileDevice,1,Higher_or_Incomplete
+1562,62,22465,Англия,Среднее,Mobile,Товар не соответствует описанию,1513,Великобритания,MobileDevice,0,Secondary_or_Special
+1563,30,52700,РОССИЯ,Неоконченное высшее,Smartwatch,"Perfect, arrived on time",4970,Россия,OtherDevice,0,Higher_or_Incomplete
+1564,21,37695,America,Неоконченное высшее,Tablet,Никому не советую,507,США,MobileDevice,0,Higher_or_Incomplete
+1565,36,58735,германия,Неоконченное высшее,Desktop,Good,0,Германия,Desktop,0,Higher_or_Incomplete
+1566,28,26904,Россия,Неоконченное высшее,Desktop,"Неплохо, но есть нюансы",861,Россия,Desktop,0,Higher_or_Incomplete
+1567,32,52217,Российская Фередация,Среднее,Tablet,"Отличный сервис, быстро доставили",3207,Россия,MobileDevice,0,Secondary_or_Special
+1568,74,48564,PRC,Высшее,Mobile,"Sehr gut, empfehlenswert",2451,Китай,MobileDevice,1,Higher_or_Incomplete
+1569,39,0,China,Высшее,Mobile,Could be better,2819,Китай,MobileDevice,1,Higher_or_Incomplete
+1570,56,60550,Britain,Среднее специальное,Desktop,Супер быстро,5422,Великобритания,Desktop,0,Secondary_or_Special
+1571,73,34184,Франция,Высшее,Mobile,"Very good, will buy again",2918,Франция,MobileDevice,1,Higher_or_Incomplete
+1572,55,59525,россия,Среднее специальное,Mobile,Так себе,1215,Россия,MobileDevice,0,Secondary_or_Special
+1573,48,67844,USA,Среднее,Mobile,Нормальный магазин,3336,США,MobileDevice,0,Secondary_or_Special
+1574,59,0,Великобритания,Высшее,Mobile,Good,4015,Великобритания,MobileDevice,1,Higher_or_Incomplete
+1575,73,66080,ФРГ,Среднее,Mobile,"Perfect, arrived on time",5080,Германия,MobileDevice,0,Secondary_or_Special
+1576,45,90361,КНР,Среднее,Mobile,"Отличный сервис, быстро доставили",6225,Китай,MobileDevice,0,Secondary_or_Special
+1577,50,87708,россия,Высшее,Desktop,"Great product, recommended",7074,Россия,Desktop,1,Higher_or_Incomplete
+1578,63,70697,Германия,Среднее,Desktop,Excellent service,4355,Германия,Desktop,0,Secondary_or_Special
+1579,32,66001,германия,Среднее,Mobile,Not bad,0,Германия,MobileDevice,0,Secondary_or_Special
+1580,51,56083,КНР,Неоконченное высшее,Mobile,"Very good, will buy again",6262,Китай,MobileDevice,0,Higher_or_Incomplete
+1581,22,37343,France,Высшее,Tablet,Nicht angekommen,1488,Франция,MobileDevice,1,Higher_or_Incomplete
+1582,62,29696,U.S.A.,Среднее специальное,Mobile,Так себе,1390,США,MobileDevice,0,Secondary_or_Special
+1583,46,57815,РФ,Неоконченное высшее,Mobile,Прекрасное качество,3897,Россия,MobileDevice,0,Higher_or_Incomplete
+1584,59,82769,Britain,Неоконченное высшее,Mobile,Could be better,3971,Великобритания,MobileDevice,0,Higher_or_Incomplete
+1585,32,76735,Germany,Высшее,Mobile,"Perfect, arrived on time",3302,Германия,MobileDevice,1,Higher_or_Incomplete
+1586,29,36492,United Kingdom,Высшее,Mobile,Good,3755,Великобритания,MobileDevice,1,Higher_or_Incomplete
+1587,31,81863,Великобритания,Среднее специальное,Mobile,"Very good, will buy again",11332,Великобритания,MobileDevice,0,Secondary_or_Special
+1588,19,13256,France,Среднее специальное,Tablet,Хороший ассортимент,1477,Франция,MobileDevice,0,Secondary_or_Special
+1589,59,78739,германия,Среднее,Desktop,Все пришло в целости,7307,Германия,Desktop,0,Secondary_or_Special
+1590,48,60253,China,Высшее,Mobile,Средне,1836,Китай,MobileDevice,1,Higher_or_Incomplete
+1591,59,65578,Соединенные Штаты,Высшее,Mobile,Alles perfekt!,2099,США,MobileDevice,1,Higher_or_Incomplete
+1592,30,77143,КНР,Среднее специальное,Tablet,Хороший ассортимент,5356,Китай,MobileDevice,0,Secondary_or_Special
+1593,18,9327,Deutschland,Высшее,Mobile,Так себе,730,Германия,MobileDevice,1,Higher_or_Incomplete
+1594,69,48999,Англия,Среднее,Mobile,Верните деньги,1596,Великобритания,MobileDevice,0,Secondary_or_Special
+1595,73,54426,россия,Высшее,Mobile,Средне,4325,Россия,MobileDevice,1,Higher_or_Incomplete
+1596,66,79957,US,Высшее,Mobile,"Great product, recommended",8114,США,MobileDevice,1,Higher_or_Incomplete
+1597,65,50372,Росия,Высшее,Smart TV,"Perfect, arrived on time",5176,Россия,OtherDevice,1,Higher_or_Incomplete
+1598,44,78510,United Kingdom,Высшее,Desktop,Очень доволен покупкой,12529,Великобритания,Desktop,1,Higher_or_Incomplete
+1599,48,129130,ФРГ,Среднее специальное,Desktop,"Всё отлично, спасибо",1939,Германия,Desktop,0,Secondary_or_Special
+1600,55,47669,франция,Высшее,Mobile,Bad quality,2888,Франция,MobileDevice,1,Higher_or_Incomplete
+1601,51,50069,United Kingdom,Неоконченное высшее,Desktop,Прекрасное качество,2452,Великобритания,Desktop,0,Higher_or_Incomplete
+1602,69,39731,Великобритания,Высшее,Desktop,"Доставка быстрая, упаковка целая",2820,Великобритания,Desktop,1,Higher_or_Incomplete
+1603,49,109000,USA,Высшее,Desktop,Лучший магазин в котором покупал,11032,США,Desktop,1,Higher_or_Incomplete
+1604,51,109742,UK,Высшее,Tablet,Обычный магазин,0,Великобритания,MobileDevice,1,Higher_or_Incomplete
+1605,40,95838,US,Неоконченное высшее,Desktop,Все пришло в целости,10136,США,Desktop,0,Higher_or_Incomplete
+1606,70,27772,United Kingdom,Среднее,Mobile,Excellent service,2397,Великобритания,MobileDevice,0,Secondary_or_Special
+1607,25,0,Франция,Высшее,Mobile,Could be better,894,Франция,MobileDevice,1,Higher_or_Incomplete
+1608,20,29341,Россия,Неоконченное высшее,Tablet,"Отличный сервис, быстро доставили",2060,Россия,MobileDevice,0,Higher_or_Incomplete
+1609,23,34539,германия,Высшее,Mobile,Класс! Обязательно закажу еще,2412,Германия,MobileDevice,1,Higher_or_Incomplete
+1610,24,62888,Китай,Среднее,Smart TV,Класс! Обязательно закажу еще,734,Китай,OtherDevice,0,Secondary_or_Special
+1611,31,78042,Франция,Среднее,Mobile,Alles perfekt!,4380,Франция,MobileDevice,0,Secondary_or_Special
+1612,31,78701,РОССИЯ,Высшее,Mobile,Could be better,0,Россия,MobileDevice,1,Higher_or_Incomplete
+1613,53,45322,France,Высшее,Mobile,Так себе,4139,Франция,MobileDevice,1,Higher_or_Incomplete
+1614,36,73046,рф,Среднее специальное,Mobile,"Good service, but shipping took too long",0,Россия,MobileDevice,0,Secondary_or_Special
+1615,43,112417,UK,Высшее,Mobile,"Всё отлично, спасибо",15746,Великобритания,MobileDevice,1,Higher_or_Incomplete
+1616,22,48836,Германия,Среднее,Smartwatch,Обычный магазин,0,Германия,OtherDevice,0,Secondary_or_Special
+1617,35,91759,китай,Неоконченное высшее,Desktop,Alles perfekt!,9632,Китай,Desktop,0,Higher_or_Incomplete
+1618,49,122032,France,Высшее,Mobile,Не могу войти в аккаунт,2555,Франция,MobileDevice,1,Higher_or_Incomplete
+1619,71,24471,Росия,Высшее,Desktop,"Быстро, но упаковка повреждена",620,Россия,Desktop,1,Higher_or_Incomplete
+1620,66,54075,France,Высшее,Mobile,"Great product, recommended",6636,Франция,MobileDevice,1,Higher_or_Incomplete
+1621,19,1035,россия,Среднее,Tablet,More or less ok,34,Россия,MobileDevice,0,Secondary_or_Special
+1622,67,39860,US,Высшее,Mobile,Прекрасное качество,5353,США,MobileDevice,1,Higher_or_Incomplete
+1623,53,101580,U.S.A.,Высшее,Mobile,"Perfect, arrived on time",10001,США,MobileDevice,1,Higher_or_Incomplete
+1624,38,0,Росия,Неоконченное высшее,Mobile,Так себе,2030,Россия,MobileDevice,0,Higher_or_Incomplete
+1625,40,101840,Российская Фередация,Высшее,Desktop,Класс! Обязательно закажу еще,2396,Россия,Desktop,1,Higher_or_Incomplete
+1626,39,0,Germany,Среднее,Tablet,Верните деньги,3062,Германия,MobileDevice,0,Secondary_or_Special
+1627,55,42914,франция,Высшее,Desktop,Обычный магазин,3933,Франция,Desktop,1,Higher_or_Incomplete
+1628,50,84504,Deutschland,Среднее специальное,Mobile,"Great product, recommended",2462,Германия,MobileDevice,0,Secondary_or_Special
+1629,31,63832,германия,Высшее,Mobile,Could be better,1434,Германия,MobileDevice,1,Higher_or_Incomplete
+1630,22,62121,Франция,Высшее,Desktop,Not bad,4322,Франция,Desktop,1,Higher_or_Incomplete
+1631,38,58112,германия,Среднее,Desktop,Лучший магазин в котором покупал,6459,Германия,Desktop,0,Secondary_or_Special
+1632,29,62804,Англия,Высшее,Desktop,Все пришло в целости,8597,Великобритания,Desktop,1,Higher_or_Incomplete
+1633,58,47848,ФРГ,Высшее,Mobile,More or less ok,3154,Германия,MobileDevice,1,Higher_or_Incomplete
+1634,71,0,US,Высшее,Mobile,"Good service, but shipping took too long",2463,США,MobileDevice,1,Higher_or_Incomplete
+1635,27,0,ФРГ,Среднее,Smartwatch,Good,2462,Германия,OtherDevice,0,Secondary_or_Special
+1636,19,8467,германия,Высшее,Tablet,Nicht angekommen,110,Германия,MobileDevice,1,Higher_or_Incomplete
+1637,38,84426,россия,Неоконченное высшее,Desktop,Средне,2636,Россия,Desktop,0,Higher_or_Incomplete
+1638,65,52784,КНР,Среднее специальное,Tablet,Excellent service,2800,Китай,MobileDevice,0,Secondary_or_Special
+1639,69,40539,PRC,Неоконченное высшее,Desktop,Bad quality,935,Китай,Desktop,0,Higher_or_Incomplete
+1640,46,108526,China,Среднее,Mobile,"Sehr gut, empfehlenswert",6341,Китай,MobileDevice,0,Secondary_or_Special
+1641,35,54496,Великобритания,Неоконченное высшее,Mobile,Excellent service,7165,Великобритания,MobileDevice,0,Higher_or_Incomplete
+1642,21,40707,Франция,Среднее,Desktop,Лучший магазин в котором покупал,4841,Франция,Desktop,0,Secondary_or_Special
+1643,46,0,Франция,Высшее,Tablet,Прекрасное качество,1410,Франция,MobileDevice,1,Higher_or_Incomplete
+1644,38,87233,Российская Федерация,Неоконченное высшее,Desktop,Хороший ассортимент,6740,Россия,Desktop,0,Higher_or_Incomplete
+1645,63,47680,Росия,Среднее,Desktop,Хороший ассортимент,6862,Россия,Desktop,0,Secondary_or_Special
+1646,47,58584,United Kingdom,Среднее,Desktop,Could be better,0,Великобритания,Desktop,0,Secondary_or_Special
+1647,38,82736,США,Среднее,Smart TV,Excellent service,11170,США,OtherDevice,0,Secondary_or_Special
+1648,38,74588,United Kingdom,Высшее,Desktop,Никому не советую,4317,Великобритания,Desktop,1,Higher_or_Incomplete
+1649,29,50788,Китай,Высшее,Mobile,Супер быстро,2301,Китай,MobileDevice,1,Higher_or_Incomplete
+1650,30,62156,USA,Высшее,Mobile,Средне,4344,США,MobileDevice,1,Higher_or_Incomplete
+1651,25,25925,Франция,Неоконченное высшее,Mobile,"Perfect, arrived on time",2735,Франция,MobileDevice,0,Higher_or_Incomplete
+1652,36,93918,US,Неоконченное высшее,Desktop,Good,9263,США,Desktop,0,Higher_or_Incomplete
+1653,44,0,Германия,Среднее,Tablet,Верните деньги,4297,Германия,MobileDevice,0,Secondary_or_Special
+1654,26,46184,франция,Высшее,Mobile,Не могу войти в аккаунт,1014,Франция,MobileDevice,1,Higher_or_Incomplete
+1655,21,46814,Франция,Среднее специальное,Tablet,"Отличный сервис, быстро доставили",6326,Франция,MobileDevice,0,Secondary_or_Special
+1656,34,78065,ФРГ,Среднее,Mobile,Not bad,2322,Германия,MobileDevice,0,Secondary_or_Special
+1657,49,99456,USA,Высшее,Desktop,Good,0,США,Desktop,1,Higher_or_Incomplete
+1658,49,91831,Франция,Среднее специальное,Mobile,"Very good, will buy again",10852,Франция,MobileDevice,0,Secondary_or_Special
+1659,28,45679,France,Среднее,Tablet,Товар не соответствует описанию,1730,Франция,MobileDevice,0,Secondary_or_Special
+1660,29,27350,America,Среднее,Mobile,"Дороговато, но качество отличное",1866,США,MobileDevice,0,Secondary_or_Special
+1661,53,103596,Росия,Высшее,Mobile,Лучший магазин в котором покупал,2686,Россия,MobileDevice,1,Higher_or_Incomplete
+1662,35,81912,Китай,Среднее,Smart TV,"Sehr gut, empfehlenswert",7201,Китай,OtherDevice,0,Secondary_or_Special
+1663,67,52644,Germany,Высшее,Smartwatch,More or less ok,0,Германия,OtherDevice,1,Higher_or_Incomplete
+1664,38,0,франция,Среднее,Mobile,"Нормально, но интерфейс мог бы быть лучше",523,Франция,MobileDevice,0,Secondary_or_Special
+1665,59,99388,Britain,Высшее,Tablet,"Good service, but shipping took too long",10829,Великобритания,MobileDevice,1,Higher_or_Incomplete
+1666,53,89989,Германия,Высшее,Desktop,"Доставка быстрая, упаковка целая",2639,Германия,Desktop,1,Higher_or_Incomplete
+1667,43,92347,United Kingdom,Высшее,Mobile,Очень доволен покупкой,6506,Великобритания,MobileDevice,1,Higher_or_Incomplete
+1668,26,48530,германия,Высшее,Mobile,"Доставка быстрая, упаковка целая",4111,Германия,MobileDevice,1,Higher_or_Incomplete
+1669,45,103265,франция,Высшее,Mobile,Все пришло в целости,4131,Франция,MobileDevice,1,Higher_or_Incomplete
+1670,27,57461,Britain,Высшее,Mobile,Good,0,Великобритания,MobileDevice,1,Higher_or_Incomplete
+1671,26,44687,PRC,Высшее,Mobile,Not bad,0,Китай,MobileDevice,1,Higher_or_Incomplete
+1672,45,109135,Britain,Неоконченное высшее,Mobile,Disappointed,1440,Великобритания,MobileDevice,0,Higher_or_Incomplete
+1673,47,78534,France,Высшее,Tablet,Супер быстро,7846,Франция,MobileDevice,1,Higher_or_Incomplete
+1674,57,74743,США,Высшее,Desktop,"Нормально, но интерфейс мог бы быть лучше",2795,США,Desktop,1,Higher_or_Incomplete
+1675,18,12941,РФ,Высшее,Mobile,Обычный магазин,1853,Россия,MobileDevice,1,Higher_or_Incomplete
+1676,37,85533,китай,Среднее,Smart TV,"Нормально, но интерфейс мог бы быть лучше",2479,Китай,OtherDevice,0,Secondary_or_Special
+1677,30,52334,United Kingdom,Неоконченное высшее,Mobile,Лучший магазин в котором покупал,4050,Великобритания,MobileDevice,0,Higher_or_Incomplete
+1678,68,55296,ФРГ,Высшее,Mobile,"Дороговато, но качество отличное",0,Германия,MobileDevice,1,Higher_or_Incomplete
+1679,46,118576,франция,Высшее,Mobile,Disappointed,10124,Франция,MobileDevice,1,Higher_or_Incomplete
+1680,72,66733,Франция,Среднее,Desktop,"Great product, recommended",6702,Франция,Desktop,0,Secondary_or_Special
+1681,55,103950,РФ,Высшее,Mobile,Обычный магазин,0,Россия,MobileDevice,1,Higher_or_Incomplete
+1682,25,57426,Великобритания,Высшее,Mobile,Нормальный магазин,4575,Великобритания,MobileDevice,1,Higher_or_Incomplete
+1683,50,68796,Великобритания,Среднее специальное,Tablet,Alles perfekt!,4839,Великобритания,MobileDevice,0,Secondary_or_Special
+1684,44,102219,U.S.A.,Высшее,Desktop,Нормальный магазин,0,США,Desktop,1,Higher_or_Incomplete
+1685,28,64698,Франция,Высшее,Mobile,"Неплохо, но есть нюансы",0,Франция,MobileDevice,1,Higher_or_Incomplete
+1686,61,30394,China,Неоконченное высшее,Mobile,Нормальный магазин,0,Китай,MobileDevice,0,Higher_or_Incomplete
+1687,49,88793,Germany,Неоконченное высшее,Desktop,Класс! Обязательно закажу еще,10376,Германия,Desktop,0,Higher_or_Incomplete
+1688,63,23304,Франция,Среднее специальное,Desktop,Класс! Обязательно закажу еще,2918,Франция,Desktop,0,Secondary_or_Special
+1689,70,0,Росия,Среднее,Tablet,Excellent service,2008,Россия,MobileDevice,0,Secondary_or_Special
+1690,50,105325,Росия,Среднее,Mobile,Так себе,0,Россия,MobileDevice,0,Secondary_or_Special
+1691,67,0,Франция,Высшее,Mobile,"Быстро, но упаковка повреждена",4012,Франция,MobileDevice,1,Higher_or_Incomplete
+1692,33,54935,PRC,Неоконченное высшее,Mobile,Лучший магазин в котором покупал,9097,Китай,MobileDevice,0,Higher_or_Incomplete
+1693,51,87418,France,Неоконченное высшее,Desktop,"Доставка быстрая, упаковка целая",4117,Франция,Desktop,0,Higher_or_Incomplete
+1694,28,0,Росия,Среднее специальное,Mobile,Alles perfekt!,4891,Россия,MobileDevice,0,Secondary_or_Special
+1695,43,127562,Великобритания,Среднее специальное,Mobile,Супер быстро,5579,Великобритания,MobileDevice,0,Secondary_or_Special
+1696,59,66887,КНР,Среднее,Desktop,"Very good, will buy again",7797,Китай,Desktop,0,Secondary_or_Special
+1697,37,0,ФРГ,Среднее,Desktop,Нормальный магазин,0,Германия,Desktop,0,Secondary_or_Special
+1698,23,58532,китай,Неоконченное высшее,Mobile,Could be better,0,Китай,MobileDevice,0,Higher_or_Incomplete
+1699,33,64919,China,Среднее,Desktop,Disappointed,2421,Китай,Desktop,0,Secondary_or_Special
+1700,25,54408,UK,Среднее,Smartwatch,Прекрасное качество,6178,Великобритания,OtherDevice,0,Secondary_or_Special
+1701,60,54949,Соединенные Штаты,Высшее,Desktop,Not bad,1599,США,Desktop,1,Higher_or_Incomplete
+1702,65,36228,КНР,Высшее,Desktop,Класс! Обязательно закажу еще,2647,Китай,Desktop,1,Higher_or_Incomplete
+1703,23,29075,US,Высшее,Mobile,Alles perfekt!,2170,США,MobileDevice,1,Higher_or_Incomplete
+1704,73,37281,Англия,Среднее специальное,Desktop,"Всё отлично, спасибо",3934,Великобритания,Desktop,0,Secondary_or_Special
+1705,50,56662,France,Среднее специальное,Desktop,"Дороговато, но качество отличное",4367,Франция,Desktop,0,Secondary_or_Special
+1706,28,61636,россия,Высшее,Mobile,"Неплохо, но есть нюансы",2325,Россия,MobileDevice,1,Higher_or_Incomplete
+1707,37,64266,США,Неоконченное высшее,Mobile,More or less ok,4139,США,MobileDevice,0,Higher_or_Incomplete
+1708,65,0,китай,Высшее,Mobile,Excellent service,3304,Китай,MobileDevice,1,Higher_or_Incomplete
+1709,42,117289,Китай,Неоконченное высшее,Desktop,"Дороговато, но качество отличное",13821,Китай,Desktop,0,Higher_or_Incomplete
+1710,38,50853,Britain,Высшее,Mobile,Все пришло в целости,5547,Великобритания,MobileDevice,1,Higher_or_Incomplete
+1711,35,87330,America,Высшее,Desktop,Not bad,8986,США,Desktop,1,Higher_or_Incomplete
+1712,23,37610,КНР,Неоконченное высшее,Smart TV,Класс! Обязательно закажу еще,4719,Китай,OtherDevice,0,Higher_or_Incomplete
+1713,60,54855,Российская Федерация,Неоконченное высшее,Mobile,Не работает,4742,Россия,MobileDevice,0,Higher_or_Incomplete
+1714,56,81999,рф,Неоконченное высшее,Mobile,"Perfect, arrived on time",8037,Россия,MobileDevice,0,Higher_or_Incomplete
+1715,23,32513,Китай,Высшее,Mobile,"Отличный сервис, быстро доставили",2535,Китай,MobileDevice,1,Higher_or_Incomplete
+1716,57,82636,UK,Высшее,Mobile,Так себе,0,Великобритания,MobileDevice,1,Higher_or_Incomplete
+1717,70,78949,США,Неоконченное высшее,Desktop,"Perfect, arrived on time",7462,США,Desktop,0,Higher_or_Incomplete
+1718,21,45862,France,Среднее,Mobile,Очень доволен покупкой,3012,Франция,MobileDevice,0,Secondary_or_Special
+1719,61,26652,Китай,Высшее,Mobile,"Доставка быстрая, упаковка целая",0,Китай,MobileDevice,1,Higher_or_Incomplete
+1720,27,49464,США,Среднее,Mobile,Лучший магазин в котором покупал,437,США,MobileDevice,0,Secondary_or_Special
+1721,57,77912,USA,Высшее,Tablet,Лучший магазин в котором покупал,5258,США,MobileDevice,1,Higher_or_Incomplete
+1722,58,67886,китай,Высшее,Desktop,Лучший магазин в котором покупал,5582,Китай,Desktop,1,Higher_or_Incomplete
+1723,26,61469,France,Среднее,Smart TV,Excellent service,6284,Франция,OtherDevice,0,Secondary_or_Special
+1724,63,49669,Великобритания,Высшее,Mobile,"Нормально, но интерфейс мог бы быть лучше",3756,Великобритания,MobileDevice,1,Higher_or_Incomplete
+1725,56,0,Росия,Высшее,Tablet,"Быстро, но упаковка повреждена",5190,Россия,MobileDevice,1,Higher_or_Incomplete
+1726,59,50161,Англия,Среднее,Mobile,More or less ok,3764,Великобритания,MobileDevice,0,Secondary_or_Special
+1727,67,73206,Россия,Среднее,Tablet,"Быстро, но упаковка повреждена",773,Россия,MobileDevice,0,Secondary_or_Special
+1728,63,43450,китай,Неоконченное высшее,Mobile,Не пришел заказ,867,Китай,MobileDevice,0,Higher_or_Incomplete
+1729,63,59716,America,Высшее,Tablet,Очень доволен покупкой,3380,США,MobileDevice,1,Higher_or_Incomplete
+1730,61,64720,USA,Среднее,Desktop,Нормальный магазин,0,США,Desktop,0,Secondary_or_Special
+1731,74,54280,Германия,Неоконченное высшее,Mobile,"Great product, recommended",5612,Германия,MobileDevice,0,Higher_or_Incomplete
+1732,74,0,франция,Среднее,Desktop,"Быстро, но упаковка повреждена",3042,Франция,Desktop,0,Secondary_or_Special
+1733,51,101156,China,Неоконченное высшее,Mobile,Alles perfekt!,7127,Китай,MobileDevice,0,Higher_or_Incomplete
+1734,30,66935,China,Среднее специальное,Mobile,"Неплохо, но есть нюансы",5596,Китай,MobileDevice,0,Secondary_or_Special
+1735,37,49118,РФ,Среднее,Desktop,"Sehr gut, empfehlenswert",3150,Россия,Desktop,0,Secondary_or_Special
+1736,24,56036,Germany,Неоконченное высшее,Desktop,Excellent service,3523,Германия,Desktop,0,Higher_or_Incomplete
+1737,24,54258,РФ,Среднее специальное,Mobile,"Доставка быстрая, упаковка целая",7064,Россия,MobileDevice,0,Secondary_or_Special
+1738,46,62181,Англия,Высшее,Desktop,Очень доволен покупкой,5337,Великобритания,Desktop,1,Higher_or_Incomplete
+1739,66,46942,КНР,Высшее,Mobile,"Быстро, но упаковка повреждена",6250,Китай,MobileDevice,1,Higher_or_Incomplete
+1740,61,0,китай,Среднее,Mobile,"Доставка быстрая, упаковка целая",0,Китай,MobileDevice,0,Secondary_or_Special
+1741,71,32688,America,Среднее,Mobile,Сломалось через день,1798,США,MobileDevice,0,Secondary_or_Special
+1742,20,28964,PRC,Среднее,Desktop,"Всё отлично, спасибо",2380,Китай,Desktop,0,Secondary_or_Special
+1743,48,95458,Deutschland,Среднее специальное,Desktop,Лучший магазин в котором покупал,3325,Германия,Desktop,0,Secondary_or_Special
+1744,53,47157,США,Среднее,Mobile,"Дороговато, но качество отличное",0,США,MobileDevice,0,Secondary_or_Special
+1745,62,50631,германия,Среднее,Mobile,"Доставка быстрая, упаковка целая",1087,Германия,MobileDevice,0,Secondary_or_Special
+1746,20,57501,Российская Фередация,Среднее,Mobile,Хороший ассортимент,6102,Россия,MobileDevice,0,Secondary_or_Special
+1747,69,68501,France,Неоконченное высшее,Mobile,"Good service, but shipping took too long",0,Франция,MobileDevice,0,Higher_or_Incomplete
+1748,27,44043,Britain,Среднее специальное,Mobile,Bad quality,1990,Великобритания,MobileDevice,0,Secondary_or_Special
+1749,64,31421,Китай,Высшее,Mobile,"Всё отлично, спасибо",555,Китай,MobileDevice,1,Higher_or_Incomplete
+1750,42,69544,Соединенные Штаты,Среднее,Mobile,Очень доволен покупкой,6555,США,MobileDevice,0,Secondary_or_Special
+1751,74,48424,Россия,Высшее,Tablet,Хороший ассортимент,2561,Россия,MobileDevice,1,Higher_or_Incomplete
+1752,56,96300,USA,Неоконченное высшее,Desktop,"Нормально, но интерфейс мог бы быть лучше",2637,США,Desktop,0,Higher_or_Incomplete
+1753,58,76709,КНР,Неоконченное высшее,Mobile,Средне,0,Китай,MobileDevice,0,Higher_or_Incomplete
+1754,22,35972,Britain,Высшее,Desktop,Все пришло в целости,4791,Великобритания,Desktop,1,Higher_or_Incomplete
+1755,49,117096,франция,Среднее специальное,Desktop,Обычный магазин,0,Франция,Desktop,0,Secondary_or_Special
+1756,73,35360,ФРГ,Неоконченное высшее,Desktop,Сломалось через день,4009,Германия,Desktop,0,Higher_or_Incomplete
+1757,23,44336,Германия,Среднее,Mobile,"Неплохо, но есть нюансы",3656,Германия,MobileDevice,0,Secondary_or_Special
+1758,69,52606,France,Высшее,Mobile,Не работает,979,Франция,MobileDevice,1,Higher_or_Incomplete
+1759,50,50244,USA,Высшее,Mobile,Could be better,4827,США,MobileDevice,1,Higher_or_Incomplete
+1760,65,73448,Германия,Среднее,Smartwatch,"Отличный сервис, быстро доставили",10127,Германия,OtherDevice,0,Secondary_or_Special
+1761,67,39626,ФРГ,Среднее специальное,Desktop,Excellent service,3493,Германия,Desktop,0,Secondary_or_Special
+1762,27,51050,United Kingdom,Среднее,Desktop,Хороший ассортимент,6778,Великобритания,Desktop,0,Secondary_or_Special
+1763,68,25627,US,Неоконченное высшее,Desktop,Почему не применилась скидка?,2212,США,Desktop,0,Higher_or_Incomplete
+1764,54,56822,UK,Среднее,Desktop,Alles perfekt!,2981,Великобритания,Desktop,0,Secondary_or_Special
+1765,66,71029,Deutschland,Среднее,Desktop,Средне,0,Германия,Desktop,0,Secondary_or_Special
+1766,58,91234,US,Высшее,Mobile,"Perfect, arrived on time",6624,США,MobileDevice,1,Higher_or_Incomplete
+1767,23,36234,Китай,Высшее,Desktop,Alles perfekt!,662,Китай,Desktop,1,Higher_or_Incomplete
+1768,36,58493,Britain,Высшее,Mobile,Alles perfekt!,5361,Великобритания,MobileDevice,1,Higher_or_Incomplete
+1769,28,32257,Франция,Среднее,Mobile,More or less ok,1452,Франция,MobileDevice,0,Secondary_or_Special
+1770,63,63567,КНР,Среднее специальное,Desktop,Good,5203,Китай,Desktop,0,Secondary_or_Special
+1771,46,63384,Китай,Среднее,Tablet,Could be better,1115,Китай,MobileDevice,0,Secondary_or_Special
+1772,59,99809,Великобритания,Высшее,Desktop,Все пришло в целости,3345,Великобритания,Desktop,1,Higher_or_Incomplete
+1773,45,115008,United Kingdom,Среднее,Mobile,"Perfect, arrived on time",9805,Великобритания,MobileDevice,0,Secondary_or_Special
+1774,74,61162,UK,Среднее,Desktop,Класс! Обязательно закажу еще,2327,Великобритания,Desktop,0,Secondary_or_Special
+1775,66,26895,ФРГ,Среднее,Mobile,"Быстро, но упаковка повреждена",497,Германия,MobileDevice,0,Secondary_or_Special
+1776,65,50271,Англия,Неоконченное высшее,Mobile,"Неплохо, но есть нюансы",0,Великобритания,MobileDevice,0,Higher_or_Incomplete
+1777,60,69065,France,Высшее,Desktop,Лучший магазин в котором покупал,7248,Франция,Desktop,1,Higher_or_Incomplete
+1778,28,36179,China,Высшее,Mobile,Good,316,Китай,MobileDevice,1,Higher_or_Incomplete
+1779,46,101935,UK,Неоконченное высшее,Desktop,Прекрасное качество,7178,Великобритания,Desktop,0,Higher_or_Incomplete
+1780,60,66950,россия,Среднее,Mobile,"Very good, will buy again",4311,Россия,MobileDevice,0,Secondary_or_Special
+1781,33,69552,USA,Высшее,Mobile,"Быстро, но упаковка повреждена",0,США,MobileDevice,1,Higher_or_Incomplete
+1782,22,39455,Росия,Среднее,Mobile,"Sehr gut, empfehlenswert",3308,Россия,MobileDevice,0,Secondary_or_Special
+1783,57,67147,Франция,Высшее,Mobile,"Отличный сервис, быстро доставили",5111,Франция,MobileDevice,1,Higher_or_Incomplete
+1784,42,82887,Российская Федерация,Среднее,Mobile,"Доставка быстрая, упаковка целая",0,Россия,MobileDevice,0,Secondary_or_Special
+1785,56,105480,Росия,Высшее,Mobile,Excellent service,7260,Россия,MobileDevice,1,Higher_or_Incomplete
+1786,62,28711,Великобритания,Среднее специальное,Desktop,Обычный магазин,0,Великобритания,Desktop,0,Secondary_or_Special
+1787,42,121981,U.S.A.,Среднее,Smartwatch,Все пришло в целости,5124,США,OtherDevice,0,Secondary_or_Special
+1788,45,86922,Росия,Высшее,Mobile,Не пришел заказ,1076,Россия,MobileDevice,1,Higher_or_Incomplete
+1789,56,98160,Германия,Высшее,Desktop,"Perfect, arrived on time",7097,Германия,Desktop,1,Higher_or_Incomplete
+1790,66,21552,Великобритания,Высшее,Mobile,"Доставка быстрая, упаковка целая",0,Великобритания,MobileDevice,1,Higher_or_Incomplete
+1791,61,65631,PRC,Среднее,Mobile,Нормальный магазин,5564,Китай,MobileDevice,0,Secondary_or_Special
+1792,21,34275,USA,Высшее,Desktop,Не пришел заказ,3250,США,Desktop,1,Higher_or_Incomplete
+1793,47,95824,США,Высшее,Desktop,More or less ok,10755,США,Desktop,1,Higher_or_Incomplete
+1794,68,51534,ФРГ,Высшее,Mobile,Лучший магазин в котором покупал,3925,Германия,MobileDevice,1,Higher_or_Incomplete
+1795,68,0,Франция,Неоконченное высшее,Desktop,Good,1675,Франция,Desktop,0,Higher_or_Incomplete
+1796,34,69933,Франция,Высшее,Desktop,Нормальный магазин,0,Франция,Desktop,1,Higher_or_Incomplete
+1797,27,0,китай,Среднее,Tablet,Could be better,4204,Китай,MobileDevice,0,Secondary_or_Special
+1798,59,49336,Россия,Высшее,Desktop,Excellent service,2226,Россия,Desktop,1,Higher_or_Incomplete
+1799,64,42844,франция,Среднее,Desktop,"Нормально, но интерфейс мог бы быть лучше",2830,Франция,Desktop,0,Secondary_or_Special
+1800,70,43685,UK,Среднее,Desktop,Нормальный магазин,5252,Великобритания,Desktop,0,Secondary_or_Special
+1801,56,0,россия,Высшее,Desktop,"Всё отлично, спасибо",1864,Россия,Desktop,1,Higher_or_Incomplete
+1802,71,47975,германия,Среднее специальное,Desktop,"Very good, will buy again",3021,Германия,Desktop,0,Secondary_or_Special
+1803,64,76978,Britain,Неоконченное высшее,Mobile,Так себе,0,Великобритания,MobileDevice,0,Higher_or_Incomplete
+1804,62,0,US,Высшее,Mobile,"Всё отлично, спасибо",2618,США,MobileDevice,1,Higher_or_Incomplete
+1805,29,49553,США,Среднее,Desktop,Good,0,США,Desktop,0,Secondary_or_Special
+1806,30,48865,Соединенные Штаты,Среднее специальное,Tablet,"Всё отлично, спасибо",1586,США,MobileDevice,0,Secondary_or_Special
+1807,23,44210,Российская Федерация,Высшее,Mobile,Bad quality,1129,Россия,MobileDevice,1,Higher_or_Incomplete
+1808,66,20473,Россия,Высшее,Desktop,Супер быстро,1178,Россия,Desktop,1,Higher_or_Incomplete
+1809,66,42087,Deutschland,Среднее,Mobile,Alles perfekt!,2513,Германия,MobileDevice,0,Secondary_or_Special
+1810,57,47502,Germany,Высшее,Tablet,Nicht angekommen,1775,Германия,MobileDevice,1,Higher_or_Incomplete
+1811,73,54775,United Kingdom,Высшее,Desktop,"Отличный сервис, быстро доставили",3479,Великобритания,Desktop,1,Higher_or_Incomplete
+1812,58,0,Germany,Среднее специальное,Desktop,Средне,3307,Германия,Desktop,0,Secondary_or_Special
+1813,68,25332,франция,Неоконченное высшее,Tablet,More or less ok,816,Франция,MobileDevice,0,Higher_or_Incomplete
+1814,51,0,France,Высшее,Desktop,Класс! Обязательно закажу еще,2110,Франция,Desktop,1,Higher_or_Incomplete
+1815,48,125866,США,Неоконченное высшее,Desktop,"Нормально, но интерфейс мог бы быть лучше",0,США,Desktop,0,Higher_or_Incomplete
+1816,28,46397,Германия,Среднее,Desktop,Not bad,5927,Германия,Desktop,0,Secondary_or_Special
+1817,58,104482,Великобритания,Неоконченное высшее,Tablet,"Very good, will buy again",11135,Великобритания,MobileDevice,0,Higher_or_Incomplete
+1818,63,68691,франция,Среднее,Desktop,Could be better,4717,Франция,Desktop,0,Secondary_or_Special
+1819,23,32299,Britain,Среднее специальное,Desktop,"Неплохо, но есть нюансы",0,Великобритания,Desktop,0,Secondary_or_Special
+1820,42,55220,КНР,Высшее,Mobile,Excellent service,7529,Китай,MobileDevice,1,Higher_or_Incomplete
+1821,26,59062,Китай,Высшее,Mobile,Супер быстро,4305,Китай,MobileDevice,1,Higher_or_Incomplete
+1822,61,49870,Германия,Среднее,Desktop,"Дороговато, но качество отличное",1936,Германия,Desktop,0,Secondary_or_Special
+1823,25,42920,Britain,Среднее,Desktop,Сломалось через день,3593,Великобритания,Desktop,0,Secondary_or_Special
+1824,39,55007,America,Среднее специальное,Mobile,Обычный магазин,7969,США,MobileDevice,0,Secondary_or_Special
+1825,64,45677,United Kingdom,Среднее специальное,Desktop,Alles perfekt!,3331,Великобритания,Desktop,0,Secondary_or_Special
+1826,22,59592,Германия,Среднее,Desktop,Средне,0,Германия,Desktop,0,Secondary_or_Special
+1827,73,0,Великобритания,Среднее,Mobile,Good,0,Великобритания,MobileDevice,0,Secondary_or_Special
+1828,31,59295,America,Среднее,Mobile,Так себе,1990,США,MobileDevice,0,Secondary_or_Special
+1829,61,75159,Россия,Высшее,Mobile,Очень доволен покупкой,6164,Россия,MobileDevice,1,Higher_or_Incomplete
+1830,45,74473,France,Высшее,Mobile,Alles perfekt!,3615,Франция,MobileDevice,1,Higher_or_Incomplete
+1831,67,65337,UK,Неоконченное высшее,Tablet,Класс! Обязательно закажу еще,6078,Великобритания,MobileDevice,0,Higher_or_Incomplete
+1832,25,30415,Britain,Высшее,Desktop,Good,956,Великобритания,Desktop,1,Higher_or_Incomplete
+1833,42,118463,Англия,Высшее,Mobile,Все пришло в целости,7446,Великобритания,MobileDevice,1,Higher_or_Incomplete
+1834,19,12903,КНР,Неоконченное высшее,Desktop,"Дороговато, но качество отличное",0,Китай,Desktop,0,Higher_or_Incomplete
+1835,70,71777,America,Неоконченное высшее,Mobile,Хороший ассортимент,6941,США,MobileDevice,0,Higher_or_Incomplete
+1836,25,27565,America,Высшее,Desktop,"Неплохо, но есть нюансы",487,США,Desktop,1,Higher_or_Incomplete
+1837,52,62492,UK,Высшее,Mobile,Супер быстро,6206,Великобритания,MobileDevice,1,Higher_or_Incomplete
+1838,26,62818,германия,Среднее специальное,Smartwatch,"Отличный сервис, быстро доставили",2039,Германия,OtherDevice,0,Secondary_or_Special
+1839,33,47407,Германия,Среднее специальное,Desktop,Так себе,1244,Германия,Desktop,0,Secondary_or_Special
+1840,22,61034,франция,Среднее специальное,Mobile,"Дороговато, но качество отличное",0,Франция,MobileDevice,0,Secondary_or_Special
+1841,27,60121,Великобритания,Среднее специальное,Desktop,Alles perfekt!,7393,Великобритания,Desktop,0,Secondary_or_Special
+1842,70,30059,Франция,Высшее,Desktop,"Быстро, но упаковка повреждена",0,Франция,Desktop,1,Higher_or_Incomplete
+1843,53,0,UK,Высшее,Mobile,"Good service, but shipping took too long",2633,Великобритания,MobileDevice,1,Higher_or_Incomplete
+1844,42,84127,Россия,Высшее,Desktop,"Неплохо, но есть нюансы",9684,Россия,Desktop,1,Higher_or_Incomplete
+1845,62,57496,китай,Среднее,Tablet,"Доставка быстрая, упаковка целая",4397,Китай,MobileDevice,0,Secondary_or_Special
+1846,65,64421,КНР,Среднее,Desktop,"Дороговато, но качество отличное",540,Китай,Desktop,0,Secondary_or_Special
+1847,27,33281,китай,Высшее,Desktop,Alles perfekt!,2430,Китай,Desktop,1,Higher_or_Incomplete
+1848,63,50001,ФРГ,Среднее,Mobile,"Быстро, но упаковка повреждена",8350,Германия,MobileDevice,0,Secondary_or_Special
+1849,72,25697,Франция,Неоконченное высшее,Desktop,Good,0,Франция,Desktop,0,Higher_or_Incomplete
+1850,54,47525,германия,Среднее специальное,Desktop,Not bad,0,Германия,Desktop,0,Secondary_or_Special
+1851,64,28940,КНР,Среднее,Mobile,Ужасное обслуживание,3834,Китай,MobileDevice,0,Secondary_or_Special
+1852,62,55017,America,Среднее,Tablet,Очень доволен покупкой,7180,США,MobileDevice,0,Secondary_or_Special
+1853,46,77089,Китай,Высшее,Mobile,Так себе,0,Китай,MobileDevice,1,Higher_or_Incomplete
+1854,49,104688,РОССИЯ,Среднее специальное,Mobile,Обычный магазин,3155,Россия,MobileDevice,0,Secondary_or_Special
+1855,36,62350,Britain,Высшее,Tablet,"Отличный сервис, быстро доставили",10660,Великобритания,MobileDevice,1,Higher_or_Incomplete
+1856,47,0,рф,Высшее,Mobile,Так себе,0,Россия,MobileDevice,1,Higher_or_Incomplete
+1857,40,56161,France,Высшее,Desktop,Сломалось через день,3070,Франция,Desktop,1,Higher_or_Incomplete
+1858,60,36392,Франция,Высшее,Mobile,Прекрасное качество,1361,Франция,MobileDevice,1,Higher_or_Incomplete
+1859,71,48793,ФРГ,Высшее,Tablet,Ужасное обслуживание,1879,Германия,MobileDevice,1,Higher_or_Incomplete
+1860,44,98412,America,Высшее,Mobile,Супер быстро,5986,США,MobileDevice,1,Higher_or_Incomplete
+1861,69,64678,ФРГ,Среднее,Tablet,Excellent service,2035,Германия,MobileDevice,0,Secondary_or_Special
+1862,19,0,China,Неоконченное высшее,Mobile,Could be better,454,Китай,MobileDevice,0,Higher_or_Incomplete
+1863,36,76845,France,Среднее,Desktop,Все пришло в целости,2038,Франция,Desktop,0,Secondary_or_Special
+1864,33,88668,US,Среднее,Desktop,More or less ok,3473,США,Desktop,0,Secondary_or_Special
+1865,55,59493,US,Высшее,Smartwatch,Не могу войти в аккаунт,3306,США,OtherDevice,1,Higher_or_Incomplete
+1866,42,108385,United Kingdom,Высшее,Mobile,Could be better,0,Великобритания,MobileDevice,1,Higher_or_Incomplete
+1867,25,42645,ФРГ,Высшее,Tablet,"Sehr gut, empfehlenswert",3503,Германия,MobileDevice,1,Higher_or_Incomplete
+1868,36,75936,China,Высшее,Mobile,Не могу войти в аккаунт,2070,Китай,MobileDevice,1,Higher_or_Incomplete
+1869,61,56160,Соединенные Штаты,Высшее,Desktop,Прекрасное качество,5256,США,Desktop,1,Higher_or_Incomplete
+1870,35,58764,Россия,Высшее,Desktop,More or less ok,0,Россия,Desktop,1,Higher_or_Incomplete
+1871,30,57643,Россия,Среднее специальное,Desktop,"Дороговато, но качество отличное",6023,Россия,Desktop,0,Secondary_or_Special
+1872,27,27871,франция,Среднее,Tablet,"Very good, will buy again",2849,Франция,MobileDevice,0,Secondary_or_Special
+1873,41,113783,россия,Высшее,Mobile,Bad quality,1348,Россия,MobileDevice,1,Higher_or_Incomplete
+1874,62,28449,China,Неоконченное высшее,Desktop,"Great product, recommended",2589,Китай,Desktop,0,Higher_or_Incomplete
+1875,22,35847,PRC,Среднее,Mobile,Товар не соответствует описанию,280,Китай,MobileDevice,0,Secondary_or_Special
+1876,55,41161,PRC,Среднее,Desktop,"Great product, recommended",3154,Китай,Desktop,0,Secondary_or_Special
+1877,25,36213,Китай,Высшее,Desktop,Сломалось через день,1112,Китай,Desktop,1,Higher_or_Incomplete
+1878,21,41318,U.S.A.,Высшее,Desktop,Не пришел заказ,3634,США,Desktop,1,Higher_or_Incomplete
+1879,74,55997,US,Неоконченное высшее,Mobile,"Sehr gut, empfehlenswert",628,США,MobileDevice,0,Higher_or_Incomplete
+1880,64,38329,Россия,Среднее,Desktop,"Great product, recommended",4159,Россия,Desktop,0,Secondary_or_Special
+1881,31,73979,Германия,Среднее,Desktop,Alles perfekt!,3144,Германия,Desktop,0,Secondary_or_Special
+1882,41,74442,рф,Высшее,Mobile,"Всё отлично, спасибо",6262,Россия,MobileDevice,1,Higher_or_Incomplete
+1883,59,0,США,Неоконченное высшее,Desktop,"Быстро, но упаковка повреждена",2739,США,Desktop,0,Higher_or_Incomplete
+1884,43,68137,America,Неоконченное высшее,Mobile,More or less ok,0,США,MobileDevice,0,Higher_or_Incomplete
+1885,18,21118,Росия,Высшее,Mobile,"Доставка быстрая, упаковка целая",0,Россия,MobileDevice,1,Higher_or_Incomplete
+1886,18,3484,Germany,Высшее,Mobile,Обычный магазин,101,Германия,MobileDevice,1,Higher_or_Incomplete
+1887,27,0,Великобритания,Среднее,Mobile,Обманщики,1938,Великобритания,MobileDevice,0,Secondary_or_Special
+1888,44,0,USA,Высшее,Mobile,Все пришло в целости,2818,США,MobileDevice,1,Higher_or_Incomplete
+1889,70,79088,USA,Высшее,Smart TV,"Good service, but shipping took too long",4040,США,OtherDevice,1,Higher_or_Incomplete
+1890,75,22840,US,Среднее,Desktop,Очень доволен покупкой,2043,США,Desktop,0,Secondary_or_Special
+1891,70,38809,Российская Федерация,Среднее специальное,Desktop,More or less ok,1100,Россия,Desktop,0,Secondary_or_Special
+1892,27,34606,Франция,Среднее,Desktop,"Дороговато, но качество отличное",3252,Франция,Desktop,0,Secondary_or_Special
+1893,35,54480,США,Неоконченное высшее,Mobile,Прекрасное качество,3497,США,MobileDevice,0,Higher_or_Incomplete
+1894,39,54058,United Kingdom,Высшее,Desktop,Alles perfekt!,4416,Великобритания,Desktop,1,Higher_or_Incomplete
+1895,23,63074,КНР,Неоконченное высшее,Desktop,Обманщики,4276,Китай,Desktop,0,Higher_or_Incomplete
+1896,19,11875,PRC,Среднее специальное,Tablet,More or less ok,0,Китай,MobileDevice,0,Secondary_or_Special
+1897,73,71029,ФРГ,Высшее,Tablet,Нормальный магазин,5375,Германия,MobileDevice,1,Higher_or_Incomplete
+1898,21,34030,United Kingdom,Высшее,Mobile,"Good service, but shipping took too long",994,Великобритания,MobileDevice,1,Higher_or_Incomplete
+1899,48,0,Германия,Высшее,Mobile,Обычный магазин,1878,Германия,MobileDevice,1,Higher_or_Incomplete
+1900,65,29182,Великобритания,Среднее,Desktop,Почему не применилась скидка?,340,Великобритания,Desktop,0,Secondary_or_Special
+1901,21,27104,U.S.A.,Высшее,Mobile,Лучший магазин в котором покупал,2491,США,MobileDevice,1,Higher_or_Incomplete
+1902,34,82490,United Kingdom,Высшее,Mobile,Alles perfekt!,2623,Великобритания,MobileDevice,1,Higher_or_Incomplete
+1903,57,47339,America,Среднее специальное,Desktop,"Неплохо, но есть нюансы",0,США,Desktop,0,Secondary_or_Special
+1904,59,93097,USA,Неоконченное высшее,Desktop,"Доставка быстрая, упаковка целая",1465,США,Desktop,0,Higher_or_Incomplete
+1905,72,0,Германия,Среднее,Mobile,Нормальный магазин,3195,Германия,MobileDevice,0,Secondary_or_Special
+1906,58,44242,РФ,Среднее,Desktop,"Нормально, но интерфейс мог бы быть лучше",0,Россия,Desktop,0,Secondary_or_Special
+1907,40,92015,Китай,Высшее,Mobile,Так себе,8114,Китай,MobileDevice,1,Higher_or_Incomplete
+1908,75,68591,Китай,Высшее,Desktop,Почему не применилась скидка?,1454,Китай,Desktop,1,Higher_or_Incomplete
+1909,61,0,UK,Среднее специальное,Mobile,Good,1667,Великобритания,MobileDevice,0,Secondary_or_Special
+1910,50,107672,КНР,Среднее специальное,Mobile,Alles perfekt!,5607,Китай,MobileDevice,0,Secondary_or_Special
+1911,20,50403,КНР,Высшее,Mobile,Сломалось через день,6375,Китай,MobileDevice,1,Higher_or_Incomplete
+1912,73,40286,рф,Высшее,Mobile,"Неплохо, но есть нюансы",1878,Россия,MobileDevice,1,Higher_or_Incomplete
+1913,23,29661,Франция,Среднее специальное,Smart TV,Очень доволен покупкой,1251,Франция,OtherDevice,0,Secondary_or_Special
+1914,49,60189,ФРГ,Высшее,Desktop,Хороший ассортимент,7777,Германия,Desktop,1,Higher_or_Incomplete
+1915,41,65943,PRC,Высшее,Tablet,Нормальный магазин,1548,Китай,MobileDevice,1,Higher_or_Incomplete
+1916,62,73820,USA,Высшее,Mobile,Прекрасное качество,4569,США,MobileDevice,1,Higher_or_Incomplete
+1917,23,47867,Britain,Среднее специальное,Mobile,"Доставка быстрая, упаковка целая",0,Великобритания,MobileDevice,0,Secondary_or_Special
+1918,45,81145,РОССИЯ,Высшее,Desktop,"Нормально, но интерфейс мог бы быть лучше",2804,Россия,Desktop,1,Higher_or_Incomplete
+1919,52,60413,America,Высшее,Desktop,Хороший ассортимент,1730,США,Desktop,1,Higher_or_Incomplete
+1920,68,48187,USA,Высшее,Mobile,Класс! Обязательно закажу еще,2172,США,MobileDevice,1,Higher_or_Incomplete
+1921,27,29538,Российская Федерация,Неоконченное высшее,Mobile,Не могу войти в аккаунт,1762,Россия,MobileDevice,0,Higher_or_Incomplete
+1922,23,53084,Германия,Высшее,Tablet,"Дороговато, но качество отличное",6403,Германия,MobileDevice,1,Higher_or_Incomplete
+1923,45,101490,PRC,Неоконченное высшее,Desktop,Очень доволен покупкой,9244,Китай,Desktop,0,Higher_or_Incomplete
+1924,27,46216,Великобритания,Высшее,Tablet,"Быстро, но упаковка повреждена",2747,Великобритания,MobileDevice,1,Higher_or_Incomplete
+1925,44,89446,рф,Среднее специальное,Tablet,Нормальный магазин,10197,Россия,MobileDevice,0,Secondary_or_Special
+1926,65,32298,Китай,Среднее,Mobile,"Неплохо, но есть нюансы",313,Китай,MobileDevice,0,Secondary_or_Special
+1927,19,9894,германия,Неоконченное высшее,Mobile,"Неплохо, но есть нюансы",1133,Германия,MobileDevice,0,Higher_or_Incomplete
+1928,71,55551,Germany,Среднее специальное,Mobile,Так себе,1758,Германия,MobileDevice,0,Secondary_or_Special
+1929,36,88227,франция,Высшее,Desktop,Класс! Обязательно закажу еще,2581,Франция,Desktop,1,Higher_or_Incomplete
+1930,23,26076,France,Среднее,Desktop,"Доставка быстрая, упаковка целая",1371,Франция,Desktop,0,Secondary_or_Special
+1931,20,43999,США,Неоконченное высшее,Desktop,"Неплохо, но есть нюансы",0,США,Desktop,0,Higher_or_Incomplete
+1932,68,79901,Англия,Высшее,Mobile,Лучший магазин в котором покупал,8926,Великобритания,MobileDevice,1,Higher_or_Incomplete
+1933,75,72110,United Kingdom,Высшее,Tablet,"Неплохо, но есть нюансы",0,Великобритания,MobileDevice,1,Higher_or_Incomplete
+1934,71,73523,Britain,Высшее,Mobile,"Sehr gut, empfehlenswert",8442,Великобритания,MobileDevice,1,Higher_or_Incomplete
+1935,57,91552,PRC,Высшее,Desktop,Alles perfekt!,4314,Китай,Desktop,1,Higher_or_Incomplete
+1936,32,51525,U.S.A.,Высшее,Desktop,"Всё отлично, спасибо",2797,США,Desktop,1,Higher_or_Incomplete
+1937,38,58353,россия,Высшее,Desktop,Класс! Обязательно закажу еще,4889,Россия,Desktop,1,Higher_or_Incomplete
+1938,54,0,United Kingdom,Среднее специальное,Desktop,Не работает,1648,Великобритания,Desktop,0,Secondary_or_Special
+1939,71,36072,Франция,Среднее,Mobile,Класс! Обязательно закажу еще,4985,Франция,MobileDevice,0,Secondary_or_Special
+1940,47,71080,Deutschland,Неоконченное высшее,Mobile,Обычный магазин,3362,Германия,MobileDevice,0,Higher_or_Incomplete
+1941,68,21438,франция,Высшее,Desktop,"Всё отлично, спасибо",1623,Франция,Desktop,1,Higher_or_Incomplete
+1942,37,45664,Britain,Среднее,Tablet,Обычный магазин,0,Великобритания,MobileDevice,0,Secondary_or_Special
+1943,57,40657,Великобритания,Среднее специальное,Mobile,"Доставка быстрая, упаковка целая",0,Великобритания,MobileDevice,0,Secondary_or_Special
+1944,27,39175,Российская Фередация,Высшее,Mobile,Could be better,0,Россия,MobileDevice,1,Higher_or_Incomplete
+1945,35,76560,РОССИЯ,Среднее,Desktop,Alles perfekt!,8584,Россия,Desktop,0,Secondary_or_Special
+1946,30,61390,Великобритания,Среднее специальное,Mobile,Все пришло в целости,3169,Великобритания,MobileDevice,0,Secondary_or_Special
+1947,49,111815,франция,Среднее,Desktop,"Неплохо, но есть нюансы",7860,Франция,Desktop,0,Secondary_or_Special
+1948,41,63423,Российская Федерация,Среднее,Mobile,"Отличный сервис, быстро доставили",9204,Россия,MobileDevice,0,Secondary_or_Special
+1949,25,36790,France,Высшее,Mobile,"Неплохо, но есть нюансы",2421,Франция,MobileDevice,1,Higher_or_Incomplete
+1950,62,20714,US,Среднее,Mobile,Not bad,875,США,MobileDevice,0,Secondary_or_Special
+1951,31,51744,Britain,Среднее специальное,Desktop,Excellent service,5487,Великобритания,Desktop,0,Secondary_or_Special
+1952,45,96652,США,Высшее,Mobile,"Good service, but shipping took too long",0,США,MobileDevice,1,Higher_or_Incomplete
+1953,46,77431,PRC,Высшее,Mobile,"Нормально, но интерфейс мог бы быть лучше",0,Китай,MobileDevice,1,Higher_or_Incomplete
+1954,47,92272,France,Неоконченное высшее,Tablet,Обычный магазин,0,Франция,MobileDevice,0,Higher_or_Incomplete
+1955,24,52202,Deutschland,Неоконченное высшее,Mobile,Bad quality,4363,Германия,MobileDevice,0,Higher_or_Incomplete
+1956,62,49791,UK,Неоконченное высшее,Tablet,"Нормально, но интерфейс мог бы быть лучше",0,Великобритания,MobileDevice,0,Higher_or_Incomplete
+1957,26,31890,Англия,Высшее,Mobile,"Very good, will buy again",5133,Великобритания,MobileDevice,1,Higher_or_Incomplete
+1958,62,0,Россия,Высшее,Mobile,Good,3655,Россия,MobileDevice,1,Higher_or_Incomplete
+1959,26,63237,Соединенные Штаты,Неоконченное высшее,Desktop,Прекрасное качество,8731,США,Desktop,0,Higher_or_Incomplete
+1960,25,59194,PRC,Среднее,Smart TV,Сломалось через день,4456,Китай,OtherDevice,0,Secondary_or_Special
+1961,36,91621,Китай,Среднее,Desktop,"Нормально, но интерфейс мог бы быть лучше",5833,Китай,Desktop,0,Secondary_or_Special
+1962,60,34164,France,Среднее,Mobile,Excellent service,4810,Франция,MobileDevice,0,Secondary_or_Special
+1963,37,91433,U.S.A.,Высшее,Mobile,"Great product, recommended",6921,США,MobileDevice,1,Higher_or_Incomplete
+1964,30,71227,ФРГ,Высшее,Mobile,"Good service, but shipping took too long",3090,Германия,MobileDevice,1,Higher_or_Incomplete
+1965,65,27222,France,Высшее,Mobile,Класс! Обязательно закажу еще,613,Франция,MobileDevice,1,Higher_or_Incomplete
+1966,40,111554,франция,Высшее,Mobile,"Дороговато, но качество отличное",1577,Франция,MobileDevice,1,Higher_or_Incomplete
+1967,45,80419,France,Среднее,Desktop,Товар не соответствует описанию,10290,Франция,Desktop,0,Secondary_or_Special
+1968,25,39390,Российская Федерация,Высшее,Desktop,"Good service, but shipping took too long",4187,Россия,Desktop,1,Higher_or_Incomplete
+1969,32,93098,Великобритания,Среднее,Mobile,Все пришло в целости,12270,Великобритания,MobileDevice,0,Secondary_or_Special
+1970,18,0,Britain,Среднее,Mobile,"Всё отлично, спасибо",2289,Великобритания,MobileDevice,0,Secondary_or_Special
+1971,29,46768,USA,Среднее,Mobile,Good,0,США,MobileDevice,0,Secondary_or_Special
+1972,61,69824,китай,Среднее специальное,Desktop,Не могу войти в аккаунт,1863,Китай,Desktop,0,Secondary_or_Special
+1973,54,78097,КНР,Высшее,Mobile,"Неплохо, но есть нюансы",0,Китай,MobileDevice,1,Higher_or_Incomplete
+1974,46,119312,китай,Среднее,Mobile,"Very good, will buy again",12128,Китай,MobileDevice,0,Secondary_or_Special
+1975,51,103485,Britain,Среднее,Mobile,Хороший ассортимент,13183,Великобритания,MobileDevice,0,Secondary_or_Special
+1976,49,59050,Англия,Высшее,Desktop,"Very good, will buy again",2765,Великобритания,Desktop,1,Higher_or_Incomplete
+1977,58,98886,Китай,Высшее,Desktop,"Perfect, arrived on time",6530,Китай,Desktop,1,Higher_or_Incomplete
+1978,37,0,китай,Неоконченное высшее,Mobile,"Нормально, но интерфейс мог бы быть лучше",3141,Китай,MobileDevice,0,Higher_or_Incomplete
+1979,49,74284,U.S.A.,Среднее специальное,Desktop,Bad quality,4273,США,Desktop,0,Secondary_or_Special
+1980,18,14872,Российская Фередация,Высшее,Desktop,"Неплохо, но есть нюансы",0,Россия,Desktop,1,Higher_or_Incomplete
+1981,60,0,Германия,Высшее,Mobile,Все пришло в целости,1768,Германия,MobileDevice,1,Higher_or_Incomplete
+1982,35,54348,US,Среднее,Mobile,"Быстро, но упаковка повреждена",3047,США,MobileDevice,0,Secondary_or_Special
+1983,58,90625,Российская Федерация,Среднее специальное,Desktop,"Всё отлично, спасибо",5331,Россия,Desktop,0,Secondary_or_Special
+1984,61,70309,US,Среднее,Mobile,Обычный магазин,0,США,MobileDevice,0,Secondary_or_Special
+1985,52,64034,France,Высшее,Mobile,Alles perfekt!,7543,Франция,MobileDevice,1,Higher_or_Incomplete
+1986,47,110116,France,Среднее специальное,Mobile,"Perfect, arrived on time",2223,Франция,MobileDevice,0,Secondary_or_Special
+1987,68,35902,Германия,Среднее,Tablet,"Быстро, но упаковка повреждена",2259,Германия,MobileDevice,0,Secondary_or_Special
+1988,18,15165,PRC,Неоконченное высшее,Mobile,"Good service, but shipping took too long",701,Китай,MobileDevice,0,Higher_or_Incomplete
+1989,70,39043,Великобритания,Неоконченное высшее,Mobile,Not bad,746,Великобритания,MobileDevice,0,Higher_or_Incomplete
+1990,27,61834,France,Высшее,Desktop,"Very good, will buy again",4457,Франция,Desktop,1,Higher_or_Incomplete
+1991,18,15891,Китай,Высшее,Mobile,Nicht angekommen,372,Китай,MobileDevice,1,Higher_or_Incomplete
+1992,48,58231,Франция,Высшее,Mobile,More or less ok,8685,Франция,MobileDevice,1,Higher_or_Incomplete
+1993,52,74114,Англия,Неоконченное высшее,Desktop,"Дороговато, но качество отличное",3699,Великобритания,Desktop,0,Higher_or_Incomplete
+1994,60,35773,Britain,Высшее,Mobile,"Быстро, но упаковка повреждена",3418,Великобритания,MobileDevice,1,Higher_or_Incomplete
+1995,35,70636,рф,Высшее,Mobile,Так себе,0,Россия,MobileDevice,1,Higher_or_Incomplete
+1996,18,19023,Germany,Среднее,Tablet,Супер быстро,1027,Германия,MobileDevice,0,Secondary_or_Special
+1997,74,67386,Росия,Высшее,Tablet,Класс! Обязательно закажу еще,7506,Россия,MobileDevice,1,Higher_or_Incomplete
+1998,29,34922,Britain,Высшее,Desktop,Класс! Обязательно закажу еще,2170,Великобритания,Desktop,1,Higher_or_Incomplete
+1999,71,62279,франция,Среднее,Desktop,Все пришло в целости,9832,Франция,Desktop,0,Secondary_or_Special
+2000,38,83591,германия,Среднее,Mobile,Нормальный магазин,0,Германия,MobileDevice,0,Secondary_or_Special
